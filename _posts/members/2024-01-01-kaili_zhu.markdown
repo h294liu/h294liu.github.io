@@ -1,0 +1,31 @@
+---
+layout: current_member
+name: Kaili Zhu
+date: 2024-01-01 # don't change - this is used for sorting only
+categories: current_member
+img: kail_zhu.jpg
+position: PhD student
+social:
+- title: envelope #use for email address
+  url: "mailto:kaili5@ualberta.ca"
+education:
+- school: University of Alberta
+  location: Canada
+  program: Water Resources Engineering
+  degree: PhD student
+  year: 2024 - present
+- school: South China University of Technology
+  location: China
+  program: Civil Engineering
+  degree: MSc
+  year: 2023
+- school: Huaqiao University
+  location: China
+  program: Construction Management
+  degree: BSc
+  year: 2020
+
+---
+
+### Short Bio
+Kaili is a PhD student in Water Resources Engineering at the University of Alberta. Kaili is from a city in eastern China, and has spent seven wonderful years studying in southern China. She has recently adapted to the cold winters of Alberta. Kaili's previous research was centered on extreme rainfall and floods. Her current research focuses on flood event classification using information theory. In her spare time, she likes to watching movies and listening to music.

@@ -1,0 +1,66 @@
+---
+layout: default
+---
+<style>
+  /* Add your custom styles here */
+
+  body {
+    margin: 0;
+    padding: 0;
+  }
+
+  .container {
+    margin-top: 20px; /* Adjust top margin as needed */
+    margin-bottom: 20px; /* Adjust bottom margin as needed */
+    padding: 20px; /* Adjust padding as needed */
+  }
+
+  .row {
+    margin: 0 -10px; /* Adjust horizontal margin as needed */
+  }
+
+  .col-md-4,
+  .col-md-8 {
+    padding: 0 10px; /* Adjust horizontal padding as needed */
+  }
+
+  .contact-info {
+    margin-top: 10px; /* Adjust top margin as needed */
+    margin-bottom: 10px; /* Adjust bottom margin as needed */
+  }
+
+  h3 {
+    margin-top: 0px; /* Adjust top margin for headers and paragraphs */
+    margin-bottom: -5px; /* Adjust bottom margin for headers and paragraphs */
+  }
+
+  ul {
+    margin-top: 0px; /* Adjust top margin for unordered lists as needed */
+    margin-bottom: 0px; /* Adjust bottom margin for unordered lists as needed */
+  }
+
+  li {
+    margin-top: 2.5px; /* Adjust top margin for unordered lists as needed */
+    margin-bottom: 2.5px; /* Adjust bottom margin for list items as needed */
+  }
+
+  /* Add more styles as needed */
+</style>
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-4">
+      <img src="{{ site.baseurl }}/assets/img/{{ page.img }}" alt="{{ page.name }}" class="img-fluid">
+    </div>
+    <div class="col-md-8">
+      <h3>{{ page.name }}</h3>
+      <p>{{ page.program }}, {{ page.endmonth }} {{ page.endyear }}</p>
+      
+      <h3>Thesis Title</h3>
+      <p>{{ page.thesisTitle }}</p>
+
+      <p>{{ content | markdownify }}</p>
+
+    </div>
+  </div>
+</div>

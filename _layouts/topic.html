@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+
+  /* Add more styles as needed */
+</style>
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-4">
+      <img src="{{ site.baseurl }}/assets/img_research/{{ page.img }}" alt="{{ page.title }}" class="img-fluid">
+    </div>
+    <div class="col-md-8">
+      
+      <h3 style="display: inline-block; margin-right: 10px;">{{ page.title }}</h3>      
+ 
+
+
+      <p>{{ content | markdownify }}</p>
+
+    </div>
+  </div>
+</div>

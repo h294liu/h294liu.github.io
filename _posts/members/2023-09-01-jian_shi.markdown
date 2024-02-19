@@ -1,0 +1,32 @@
+---
+layout: current_member     # don't change
+name: Jian Shi
+date: 2023-09-01           # date that you joined the group
+categories: current_member # don't change
+img: jian_shi.jpg
+position: PhD student
+social:
+- title: envelope #use for email address
+  url: "mailto:js23@ualberta.ca"
+education:
+- school: University of Alberta
+  location: Canada
+  program: Water Resources Engineering
+  degree: PhD student
+  year: 2023 - present
+- school: University of Saskatchewan
+  location: Canada
+  program: Water Security
+  degree: MSc
+  year: 2021
+- school: South China Agricultural University
+  location: China
+  program: Environmental Engineering
+  degree: BSc
+  year: 2019  
+positions_held:
+---
+
+### Short Bio
+
+Jian is a PhD student in Water Resources Engineering at the University of Alberta. Her previous research mainly focused on the migration and transformation mechanisms of groundwater pollutants and the treatment of contaminants. Her current research focuses on employing machine learning techniques to enhance the efficiency of parameter calibration in process-based hydrologic models. This includes sensitivity analysis and parameter estimation. In her spare time, she likes to watch movies and cook.

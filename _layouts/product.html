@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<article class="member">
+  <h2>{{ page.title }}</h2>
+  <div class="profile-photo">
+    <img src="{{ page.url | prepend: site.baseurl }}" alt="{{ page.title }}">
+  </div>
+  <div class="member-content">
+    {{ content }}
+  </div>
+</article>
+

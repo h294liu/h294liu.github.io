@@ -1,0 +1,25 @@
+---
+layout: current_member     # don't change
+name: Minh Le
+date: 2024-02-01           # don't change, used for laying out members. 
+categories: current_member # don't change
+img: minh_le.jpg
+position: Undergraduate student
+social:
+- title: envelope #use for email address
+  url: "mailto:mhle@ualberta.ca"
+education:
+- school: University of Alberta
+  location: Canada
+  program: Computer Science and Mathematics
+  degree: Undergraduate student
+  year: 2020 - present
+positions_held:
+linkedin_url: "https://www.linkedin.com/in/minhle14/"
+---
+
+### Project
+TBD
+
+### Short Bio
+Minh is a senior with background in Computer Science, Mathematics, Statistics, and has keen interests as well as experience in data science, data analytics, machine learning, and deep learning.

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computational Hydrology Group</title>
+    <description></description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 19 Feb 2024 14:32:23 -0700</pubDate>
+    <lastBuildDate>Mon, 19 Feb 2024 14:32:23 -0700</lastBuildDate>
+    <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>Minh_le</title>
+        <description>&lt;h3 id=&quot;project&quot;&gt;Project&lt;/h3&gt; &lt;p&gt;TBD&lt;/p&gt; &lt;h3 id=&quot;short-bio&quot;&gt;Short Bio&lt;/h3&gt; &lt;p&gt;Minh is a senior with background in Computer Science, Mathematics, Statistics, and has keen interests as well as experience in data science, data analytics,...</description>
+        <pubDate>Thu, 01 Feb 2024 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/current_member/2024/02/01/minh_le.html</link>
+        <guid isPermaLink="true">http://localhost:4000/current_member/2024/02/01/minh_le.html</guid>
+        
+        
+        <category>current_member</category>
+        
+      </item>
+    
+      <item>
+        <title>Marian_poblete</title>
+        <description>&lt;h3 id=&quot;project&quot;&gt;Project&lt;/h3&gt; &lt;p&gt;Assessing the influence of hydrologic model complexity on snowmelt and streamflow simulation&lt;/p&gt; &lt;h3 id=&quot;short-bio&quot;&gt;Short Bio&lt;/h3&gt; &lt;p&gt;Marian is undertaking her Emerging Leaders in the Americas Program (ELAP), a research...</description>
+        <pubDate>Thu, 04 Jan 2024 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/current_member/2024/01/04/marian_poblete.html</link>
+        <guid isPermaLink="true">http://localhost:4000/current_member/2024/01/04/marian_poblete.html</guid>
+        
+        
+        <category>current_member</category>
+        
+      </item>
+    
+      <item>
+        <title>Quang_ngo</title>
+        <description>&lt;h3 id=&quot;project&quot;&gt;Project&lt;/h3&gt; &lt;p&gt;Assessing the influence of hydrologic model complexity on snowmelt and streamflow simulation&lt;/p&gt; &lt;h3 id=&quot;short-bio&quot;&gt;Short Bio&lt;/h3&gt; &lt;p&gt;Quang is undertaking his Dean’s Research Award in Fall 2023 and continuing through...</description>
+        <pubDate>Tue, 02 Jan 2024 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/current_member/2024/01/02/quang_ngo.html</link>
+        <guid isPermaLink="true">http://localhost:4000/current_member/2024/01/02/quang_ngo.html</guid>
+        
+        
+        <category>current_member</category>
+        
+      </item>
+    
+      <item>
+        <title>Kaili_zhu</title>
+        <description>&lt;h3 id=&quot;short-bio&quot;&gt;Short Bio&lt;/h3&gt; &lt;p&gt;Kaili is a PhD student in Water Resources Engineering at the University of Alberta. Kaili is from a city in eastern China, and has spent seven wonderful...</description>
+        <pubDate>Mon, 01 Jan 2024 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/current_member/2024/01/01/kaili_zhu.html</link>
+        <guid isPermaLink="true">http://localhost:4000/current_member/2024/01/01/kaili_zhu.html</guid>
+        
+        
+        <category>current_member</category>
+        
+      </item>
+    
+      <item>
+        <title>Jian_shi</title>
+        <description>&lt;h3 id=&quot;short-bio&quot;&gt;Short Bio&lt;/h3&gt; &lt;p&gt;Jian is a PhD student in Water Resources Engineering at the University of Alberta. Her previous research mainly focused on the migration and transformation mechanisms of groundwater...</description>
+        <pubDate>Fri, 01 Sep 2023 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/current_member/2023/09/01/jian_shi.html</link>
+        <guid isPermaLink="true">http://localhost:4000/current_member/2023/09/01/jian_shi.html</guid>
+        
+        
+        <category>current_member</category>
+        
+      </item>
+    
+      <item>
+        <title>Umalsha_colambage</title>
+        <description>&lt;h3 id=&quot;project&quot;&gt;Project&lt;/h3&gt; &lt;p&gt;Assessing Climate Change Impacts on Snowmelt Patterns in Canadian Mountain Regions&lt;/p&gt; &lt;h3 id=&quot;short-bio&quot;&gt;Short Bio&lt;/h3&gt; &lt;p&gt;Umalsha completed his Dean’s Research Award in Fall 2023. His research focused on assessing...</description>
+        <pubDate>Fri, 14 Apr 2023 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/former_member_undergrad/2023/04/14/umalsha_colambage.html</link>
+        <guid isPermaLink="true">http://localhost:4000/former_member_undergrad/2023/04/14/umalsha_colambage.html</guid>
+        
+        
+        <category>former_member_undergrad</category>
+        
+      </item>
+    
+      <item>
+        <title>Hannah_tripp</title>
+        <description>&lt;h3 id=&quot;project&quot;&gt;Project&lt;/h3&gt; &lt;p&gt;Understanding Dominant Hydrological Processes and Model Parameters in Mountainous Regions: A Case Study of the Bow at Banff&lt;/p&gt; &lt;h3 id=&quot;project-abstract&quot;&gt;Project Abstract&lt;/h3&gt; &lt;p&gt;Hannah completed her Dean’s Research Award in...</description>
+        <pubDate>Fri, 14 Apr 2023 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/former_member_undergrad/2023/04/14/hannah_tripp.html</link>
+        <guid isPermaLink="true">http://localhost:4000/former_member_undergrad/2023/04/14/hannah_tripp.html</guid>
+        
+        
+        <category>former_member_undergrad</category>
+        
+      </item>
+    
+      <item>
+        <title>Hongli_liu</title>
+        <description>&lt;h3 id=&quot;short-bio&quot;&gt;Short Bio&lt;/h3&gt; &lt;p&gt;The primary research interest of my research group is in advancing hydrologic modeling and its applications in extreme event predictions (e.g., floods and droughts) and climate change...</description>
+        <pubDate>Sun, 01 Jan 2023 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/current_member/2023/01/01/hongli_liu.html</link>
+        <guid isPermaLink="true">http://localhost:4000/current_member/2023/01/01/hongli_liu.html</guid>
+        
+        
+        <category>current_member</category>
+        
+      </item>
+    
+      <item>
+        <title>Ensemble Meteorological Dataset for Planet Earth (coming soon)</title>
+        <description>&lt;h4 id=&quot;description&quot;&gt;Description&lt;/h4&gt; &lt;p&gt;Gridded meteorological estimates are essential for many applications. Most existing meteorological datasets are deterministic and have limitations in representing the inherent uncertainties from both the data and methodology...</description>
+        <pubDate>Thu, 01 Jul 2021 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/group_datasets/2021/07/01/EMEarth.html</link>
+        <guid isPermaLink="true">http://localhost:4000/group_datasets/2021/07/01/EMEarth.html</guid>
+        
+        
+        <category>group_datasets</category>
+        
+      </item>
+    
+      <item>
+        <title>Serially Complete Earth Dataset</title>
+        <description>&lt;h4 id=&quot;description&quot;&gt;Description&lt;/h4&gt; &lt;p&gt;Meteorological data from ground stations suffer from temporal discontinuities caused by missing values and short measurement periods. Gap-filling and reconstruction techniques have proven to be effective in producing...</description>
+        <pubDate>Tue, 01 Dec 2020 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/group_datasets/2020/12/01/SCEarth.html</link>
+        <guid isPermaLink="true">http://localhost:4000/group_datasets/2020/12/01/SCEarth.html</guid>
+        
+        
+        <category>group_datasets</category>
+        
+      </item>
+    
+  </channel>
+</rss>
