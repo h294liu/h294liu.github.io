@@ -43,7 +43,9 @@ Our group aims to advance process-based hydrologic modeling, and its application
     </div>
     <div class="text-container">
         <h3 id="paragraph1">Large-scale parameter estimation</h3>
-        <p>Lorem ipsum dolor sit amet, <a href="#" title="test link">test link</a> adipiscing elit...</p>
+        <p>
+        Accurate parameter estimation, also called model calibration, is essential for enhancing model reliability and predictive capability. Our research uses machine learning techniques to improve the efficiency of sensitivity analysis and parameter estimation in large-scale hydrologic model applications. 
+        </p>
     </div>
 </div>
 
@@ -55,7 +57,9 @@ Our group aims to advance process-based hydrologic modeling, and its application
     </div>
     <div class="text-container">
         <h3 id="paragraph2">Hydrologic model spatial configuration</h3>
-        <p>Lorem ipsum dolor sit amet, <a href="#" title="test link">test link</a> adipiscing elit...</p>
+        <p>
+        Model complexity and process representation are highly dependent on spatial discretization, which divides a domain into homogeneous computational units, such as grids or hydrologic response units. Our research focuses on generalizing guidelines for determining the appropriate model complexity to represent the spatial heterogeneity across scales. 
+        </p>
     </div>
 </div>
 
@@ -67,7 +71,9 @@ Our group aims to advance process-based hydrologic modeling, and its application
     </div>
     <div class="text-container">
         <h3 id="paragraph2">Causative classification of flood events</h3>
-        <p>Lorem ipsum dolor sit amet, <a href="#" title="test link">test link</a> adipiscing elit...</p>
+        <p>
+        This research develops insights into the underlying causes of flooding events by leveraging advanced analytical techniques. We also examine the impact of climatic variation and change on flood magnitude and frequency, and predict future floods by considering various environmental changes.
+        </p>
     </div>
 </div>
 
@@ -79,7 +85,9 @@ Our group aims to advance process-based hydrologic modeling, and its application
     </div>
     <div class="text-container">
         <h3 id="paragraph2">Hydrometeorological data uncertainty</h3>
-        <p>Lorem ipsum dolor sit amet, <a href="#" title="test link">test link</a> adipiscing elit...</p>
+        <p>
+        Hydrologic modeling and forecasting face various sources of uncertainty. We embrace uncertainty and work to accurately quantify the uncertainties in both historical and real-time meteorological and hydrometric observations. We also develop methodologies to utilize these uncertain data in hydrologic modeling, data assimilation, and flood mapping.
+        </p>
     </div>
 </div>
 

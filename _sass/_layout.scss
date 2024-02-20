@@ -190,8 +190,9 @@ img {
 	top: 0;
 	left: 20;
 	right: 60;
-	background: $white;
+	background: $highlight-color;  /*$white; */
 	z-index: 1;
+	color: white; // Set the text color to white for all text within .navigation
 	/*
 	*	Navigation Menu - http://refills.bourbon.io/unstyled/ (see "Navigation")
 	*/
@@ -228,9 +229,9 @@ img {
       padding-right: 1em;
     }
     span {
-    	font-family: 'Roboto', sans-serif; /*'Helvetica', Arial, sans-serif; */
+    	font-family: 'Roboto Slab', sans-serif; /*'Helvetica', Arial, sans-serif; */
     	font-size: 1.3em;
-    	color: #333; /* Font color */
+    	color: $white; /* #333 Font color */
     	 /* text-transform: uppercase;Optional: Uppercase text */
 		font-weight: bold; /* Make text bold */
     }
@@ -262,9 +263,9 @@ img {
 	> * { // This targets every direct child of the navigation-menu
 		display: inline-block; // Makes each item inline but block-like for margins to apply
 		margin-right: 10px; // Adjust as needed for spacing
-		font-family: 'Roboto', sans-serif; /*'Helvetica', Arial, sans-serif;  */
+		font-family: 'Roboto Slab', sans-serif; /*'Helvetica', Arial, sans-serif;  */
 		font-size: 1.1em;
-		color: #333; /* Font color */
+		color: $white; /* #333 Font color */
 		/* text-transform: uppercase; /* Optional: Uppercase text */
 		font-weight: bold; /* Make text bold */
 
@@ -289,9 +290,9 @@ img {
   li.nav-link {
   	a {
 	    display: inline-block;
-		font-family: 'Roboto', sans-serif; /*'Helvetica', Arial, sans-serif; /* Font-family */
+		font-family: 'Roboto Slab', sans-serif; /*'Helvetica', Arial, sans-serif; /* Font-family */
 		font-size: 1em; /* Font-size */
-		color: #333; /* Font color */
+		color: $white; /* #333 Font color */
 		font-weight: bold; /* Make text bold */
 		@include media ($tablet) {
 	      padding-right: 1.5em;

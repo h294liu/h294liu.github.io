@@ -97,10 +97,6 @@
 	
 
 	
-	<li class="nav-link"><a href="/home/">HOME</a>
-	
-
-	
 
 	
 
@@ -149,7 +145,9 @@
 <div class="page">
 
   <article class="post-content">
-    <style>
+    <hr />
+
+<style>
   /* Add your custom styles here */
   
   .member-info {
@@ -160,31 +158,6 @@
     margin-top: 10px; /* Adjust top margin for h4 headers */
     margin-bottom: 5px; /* Adjust bottom margin for h4 headers */
   }
-
-  p {
-    margin-top: 5px; /* Adjust top margin for paragraphs */
-    margin-bottom: 10px; /* Adjust bottom margin for paragraphs */
-  }
-
-.slider {
-  width: 100%;
-  position: relative;
-}
-
-.slider img {
-  width: 100%;
-  display: none;
-  position: absolute;
-  top: 0;
-  left: 0;
-}
-
-.slider img:first-child {
-  display: block;
-}
-
-  /* Add more styles as needed */
-
 </style>
 
 <h3>Current Group Members</h3>
@@ -308,123 +281,57 @@
 <hr />
 
 <h3>Fun Photos</h3>
-<div id="imageSlider" class="slider">
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
+<div id="funPhotoGallery" style="max-width: 600px; margin: 0 auto; position: relative;">
+  <img id="currentFunPhoto" src="" alt="Fun Photo" style="max-width: 600px; height: auto; display: block; margin: 0 auto;" />
+  <div id="photoDescription" style="position: absolute; bottom: 8px; left: 30px; background-color: rgba(0, 0, 0, 0.3); color: white; padding: 4px; width: calc(100% - 60px); box-sizing: border-box; font-size: 14px;">
+    <!-- Description will be inserted here -->
+  </div>
 </div>
+<div class="button-container" style="text-align: center;">
+  <button id="prevFunPhoto">Previous</button>
+  <button id="nextFunPhoto">Next</button>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  const galleryItems = [
+    
+      { src: "/assets/gallery/2023-12-22FirstGroupMeeting.png", description: "First Group Meeting in December 2023" },
+    
+      { src: "/assets/gallery/dra_2023_hannah.jpg", description: "Hannah&#39;s Presentation at DRA 2023" },
+    
+      { src: "/assets/gallery/dra_2023_umalsha.jpg", description: "Umalsha&#39;s Presentation at DRA 2023" },
+    
+  ];
+  let currentIndex = 0;
+
+  function updateGalleryItem(index) {
+    const photoElement = document.getElementById('currentFunPhoto');
+    const descriptionElement = document.getElementById('photoDescription');
+    photoElement.src = galleryItems[index].src;
+    photoElement.alt = galleryItems[index].description; // Update alt text for accessibility
+    descriptionElement.innerHTML = galleryItems[index].description; // Update the description
+  }
+
+  // Initialize with the first item
+  updateGalleryItem(currentIndex);
+
+  document.getElementById('prevFunPhoto').addEventListener('click', function() {
+    currentIndex = (currentIndex - 1 + galleryItems.length) % galleryItems.length;
+    updateGalleryItem(currentIndex);
+  });
+
+  document.getElementById('nextFunPhoto').addEventListener('click', function() {
+    currentIndex = (currentIndex + 1) % galleryItems.length;
+    updateGalleryItem(currentIndex);
+
+  // Optional: If you expect the window to resize and want to maintain the alignment
+  window.addEventListener('resize', updateDescriptionWidth);
+
+  });
+});
+</script>
+
 
   </article>
 

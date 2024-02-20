@@ -37,6 +37,8 @@ positions_held:
   employer: National Center for Atmospheric Research
   location: Boulder, Colorado, USA
   period: 2019-2021
+googlescholar_url: "https://scholar.google.ca/citations?user=im9DUhAAAAAJ&hl=en&authuser=1"
+orcid_url: "https://orcid.org/0000-0002-2756-3247"
 ---
 
 ### Short Bio

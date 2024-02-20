@@ -4,10 +4,17 @@ title: PUBLICATIONS
 permalink: /publications/
 main_nav: true
 ---
+<style>
+ul li {
+  margin-bottom: -15px; /* Adjusts the space between list items */
+  /* Further style adjustments can be made here, such as font size or color */
+}
+
+</style>
 
 <h3>Journal Articles</h3>
 
-- **Liu, H.**, Clark, M.P., Gharari, S., Sheikholeslami, R., Freer, J., Knoben, W.J., Marsh, C.B. and Papalexiou, S.M., 2024. An Improved Copula‐Based Framework for Efficient Global Sensitivity Analysis. _Water Resources Research_, 60(1), p.e2022WR033808. [https://doi.org/10.1029/2022WR033808](https://doi.org/10.1029/2022WR033808)
+- **Liu, H.**, Clark, M.P., Gharari, S., Sheikholeslami, R., Freer, J., Knoben, W.J., Marsh, C.B. and Papalexiou, S.M., 2024. An improved copula‐based framework for efficient global sensitivity analysis. _Water Resources Research_, 60(1), p.e2022WR033808. [https://doi.org/10.1029/2022WR033808](https://doi.org/10.1029/2022WR033808)
 
 - Tang, G., Clark, M.P., Knoben, W.J., **Liu, H.**, Gharari, S., Arnal, L., Beck, H.E., Wood, A.W., Newman, A.J. and Papalexiou, S.M., 2023. The impact of meteorological forcing uncertainty on hydrological modeling: A global analysis of cryosphere basins. _Water Resources Research_, p.e2022WR033767. [https://doi.org/10.1029/2022WR033808](https://doi.org/10.1029/2022WR033808)
 
@@ -22,10 +29,22 @@ main_nav: true
 - **Liu, H.**, Tolson, B.A., Craig, J.R. and Shafii, M., 2016. _A priori_ discretization error metrics for distributed hydrologic modeling applications. _Journal of Hydrology_, 543, pp.873-891. [https://doi.org/10.1016/j.jhydrol.2016.11.008](https://doi.org/10.1016/j.jhydrol.2016.11.008) 
 
 - Wang, H., **Liu, H.**, Wang, C., Bai, Y. and Fan, L., 2019. A study of industrial relative water use efficiency of Beijing: an application of data envelopment analysis. _Water Policy_, 21(2), pp.326-343. [https://doi.org/10.2166/wp.2019.019](https://doi.org/10.2166/wp.2019.019)
+<hr>
 
+<h3>Open-source Datasets and Toolboxes</h3>
+
+- pyVISCOUS global sensitivity analysis toolbox. [link](https://github.com/CH-Earth/pyviscous.git)
+
+- Parameter estimation toolbox for the Structure for Unifying Multiple Modeling Alternatives (SUMMA). [link](https://github.com/CH-Earth/summa_calib.git)
+
+- Ensemble Dressing of North American Land Data Assimilation version 2 (EDN2). NCAR Research Data Archive. [link](https://rda.ucar.edu/datasets/ds613.0/)
+
+- Watershed discretization toolbox. [link](https://github.com/NCAR/watershed_tools.git)
+
+<hr>
 <h3>Selected Presentations</h3>
 
-- **Liu, H.**, Clark, M., Tang, G., Knoben, W., Gharari, S., Freer, J., Arnal, L. and Casson, D., 2023. Sensitivity Analysis of the SUMMA Model on the Global Scale. EGU General Assembly 2023, Vienna, Austria.
+- **Liu, H.**, Clark, M., Tang, G., Knoben, W., Gharari, S., Freer, J., Arnal, L. and Casson, D., 2023. Sensitivity analysis of the SUMMA model on the global scale. EGU General Assembly 2023, Vienna, Austria.
 
 - **Liu, H.**, 2023. Improving data uncertainty handling in hydrologic modeling and forecasting applications. Water Resources and Environmental Webinars 2023, University of Chile, Chile (online).
 
