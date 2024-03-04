@@ -12,8 +12,8 @@ main_nav: true
     }
 
     .image-container {
-        margin-right: 20px; /* Reduced margin between image and text */
-        flex: 0.2 1 auto; /* Adjusted flex property to control the size more explicitly */
+        margin-right: 0px; /* Reduced margin between image and text */
+        flex: 1; /* Adjusted flex property to control the size more explicitly */
     }
 
     .image-container img {
@@ -22,7 +22,7 @@ main_nav: true
     }
 
     .text-container {
-        flex: 2;
+        flex: 3;
     }
 
     .text-container p {
@@ -33,10 +33,6 @@ main_nav: true
 
 <p>
 Our research group aims to advance process-based hydrologic modeling, and its application in predictions (including floods and droughts) and impact assessment under climate change. Specifically, we seek to: (1) uncover the underlying causes of extreme hydrologic events, (2) enhance the representation of hydrologic processes in models, (3) minimize uncertainty in model outputs, and (4) generate ensemble hydrologic predictions under future climate scenarios. See below for examples.
-<br>
-<br>
-Our research uses in situ and remote sensing data, integrates machine learning with process-based hydrologic modeling, and runs large-domain simulations on supercomputers. We are passionate about conducting open, reproducible, and collaborative research. Our research outcomes will improve the usefulness of hydrologic observations and models in water engineering and interdisciplinary problems.
-</p>
 
 <hr>
 <div class="flex-container">
@@ -44,7 +40,7 @@ Our research uses in situ and remote sensing data, integrates machine learning w
         <img src="{{ site.baseurl }}/assets/img_research/topic1.jpg" alt="Descriptive Alt Text">
     </div>
     <div class="text-container">
-        <h4 id="paragraph2">Revealing Flood Causes for Future Predictions</h4>
+        <h4 id="paragraph2">Uncovering Flood Causes for Future Predictions</h4>
         <p>
         This research develops insights into the underlying causes of flooding events by leveraging advanced analytical techniques. Additionally, we examine the impact of climatic change on flood magnitude and frequency, and predict future floods by considering various environmental changes.
         </p>

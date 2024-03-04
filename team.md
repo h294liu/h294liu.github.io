@@ -36,11 +36,10 @@ fun_photos:
       </div>
       <div class="text-container">
         <h4><a href="{{  member.url | prepend: site.baseurl }}">{{ member.name }}</a></h4>
-        <!-- Add other text content here -->
         <p style="line-height: 1.0;">{{ member.position }}</p>
       </div>
     </div>
-  </div><!-- /col-lg-3 -->
+  </div>
 {% endfor %}
 
 <hr>

@@ -11,6 +11,7 @@ exclude:
 
 # Site settings
 title: Computational Hydrology Group
+#subtitle: test test test 
 email: hongli.liu@ualberta.ca
 name: Hongli Liu
 
@@ -33,9 +34,12 @@ navigation:
   - name: Team
     url: "/team/"
     order: 3
+  - name: Join
+    url: "/join/"
+    order: 4
   - name: Contact
     url: "/contact/"
-    order: 4
+    order: 5
 
 # Build settings
 markdown: kramdown
