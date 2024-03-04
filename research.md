@@ -44,7 +44,7 @@ Our research uses in situ and remote sensing data, integrates machine learning w
         <img src="{{ site.baseurl }}/assets/img_research/topic1.jpg" alt="Descriptive Alt Text">
     </div>
     <div class="text-container">
-        <h4 id="paragraph2">Uncovering Flood Causes for Future Predictions</h4>
+        <h4 id="paragraph2">Revealing Flood Causes for Future Predictions</h4>
         <p>
         This research develops insights into the underlying causes of flooding events by leveraging advanced analytical techniques. Additionally, we examine the impact of climatic change on flood magnitude and frequency, and predict future floods by considering various environmental changes.
         </p>

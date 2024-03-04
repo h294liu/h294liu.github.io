@@ -1,5 +1,5 @@
 #### Acknowledgement
-This webpage has been developed using the Jekyll template provided by [Ben Centra](https://github.com/bencentra). We extend our gratitude to the developer for permitting us to utilize his template.
+This webpage has been developed using the Jekyll template provided by [Ben Centra](https://github.com/bencentra/centrarium.git). We extend our gratitude to the developer for permitting us to utilize his template.
 
 #### License
 
