@@ -11,8 +11,8 @@ linkedin_url: "https://www.linkedin.com/in/umalsha-colambage-723a75226?utm_sourc
 ---
 
 ### Project
-Assessing Climate Change Impacts on Snowmelt Patterns in Canadian Mountain Regions
+Assessing climate change impacts on snowmelt patterns in Canadian mountain regions
 
 ### Short Bio 
-Umalsha completed his Dean's Research Award in Fall 2023. His research focused on assessing the effects of Climate Change on snowmelt patterns in the Banff Bow River Basin. His research broadened his understanding of hydrology, equipping him with valuable skills in utilizing supercomputer clusters, mastering Python, and refining his problem-solving abilities. During his free time, Umalsha likes to spend time at the gym, play video games and listen to physics and true crime podcasts.
+Umalsha completed his Dean's Research Award in Fall 2023. His research focused on assessing the effects of climate change on snowmelt patterns in the Banff Bow River Basin. His research broadened his understanding of hydrology, equipping him with valuable skills in utilizing supercomputer clusters, mastering Python, and refining his problem-solving abilities. During his free time, Umalsha likes to spend time at the gym, play video games and listen to physics and true crime podcasts.
 

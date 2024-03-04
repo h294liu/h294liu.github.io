@@ -76,15 +76,13 @@ fun_photos:
 <hr>
 
 <h3>Fun Photos</h3>
-<div id="funPhotoGallery" style="max-width: 600px; margin: 0 auto; position: relative;">
-  <img id="currentFunPhoto" src="" alt="Fun Photo" style="max-width: 600px; height: auto; display: block; margin: 0 auto;">
-  <div id="photoDescription" style="position: absolute; bottom: 8px; left: 30px; background-color: rgba(0, 0, 0, 0.3); color: white; padding: 4px; width: calc(100% - 60px); box-sizing: border-box; font-size: 14px;">
+<div id="funPhotoGallery" style="max-width: 1000px; margin: 0 auto; position: relative;">
+  <button id="prevFunPhoto" style="position: absolute; left: 0; top: 50%; transform: translateY(-50%);">&#10094;</button>
+  <img id="currentFunPhoto" src="" alt="Fun Photo" style="max-width: 1000px; height: auto; display: block; margin: 0 auto;">
+  <div id="photoDescription" style="position: absolute; bottom: 8px; left: 5%; background-color: rgba(0, 0, 0, 0.3); color: white; padding: 4px; width: calc(100% - 10%); box-sizing: border-box; font-size: 14px;">
     <!-- Description will be inserted here -->
   </div>
-</div>
-<div class="button-container" style="text-align: center;">
-  <button id="prevFunPhoto">Previous</button>
-  <button id="nextFunPhoto">Next</button>
+  <button id="nextFunPhoto" style="position: absolute; right: 0; top: 50%; transform: translateY(-50%);">&#10095;</button>
 </div>
 
 

@@ -40,25 +40,7 @@
   <meta name="theme-color" content="#ffffff">
 
   
-  <!-- Facebook OGP cards -->
-  <meta property="og:description" content="" />
-  <meta property="og:url" content="http://localhost:4000/team/">
-  <meta property="og:site_name" content="Computational Hydrology Group" />
-  <meta property="og:title" content="TEAM" />
-  <meta property="og:type" content="website" />
-  <meta property="og:image" content="http://localhost:4000/assets/img/logo.png" />
-  <meta property="og:image:type" content="image/png" />
-  <meta property="og:image:width" content="612" />
-  <meta property="og:image:height" content="605" />
-  
 
-  
-  <!-- Twitter: card tags -->
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="TEAM">
-  <meta name="twitter:description" content="">
-  <meta name="twitter:image" content="http://localhost:4000/assets/img/logo.png">
-  <meta name="twitter:url" content="http://localhost:4000/team/">
   
 
   
@@ -88,8 +70,8 @@
       <i class="fa fa-bars"></i>
     </a>
     <nav role="navigation">
-      <!-- <ul id="js-navigation-menu" class="navigation-menu show">
-				
+      <ul id="js-navigation-menu" class="navigation-menu show">
+				<!-- 
 	
 	<li class="nav-link"><a href="/contact/">CONTACT</a>
 	
@@ -118,10 +100,7 @@
 
 	
 
-
-      </ul>-->
-
-      <ul class="navigation-menu">
+ -->
         
         
             <a href="/research/">Research</a>
@@ -132,9 +111,7 @@
         
             <a href="/contact/">Contact</a>
         
-      </ul>
-
-      
+      </ul>      
     </nav>
   </div>
 </header>
@@ -281,15 +258,13 @@
 <hr />
 
 <h3>Fun Photos</h3>
-<div id="funPhotoGallery" style="max-width: 600px; margin: 0 auto; position: relative;">
-  <img id="currentFunPhoto" src="" alt="Fun Photo" style="max-width: 600px; height: auto; display: block; margin: 0 auto;" />
-  <div id="photoDescription" style="position: absolute; bottom: 8px; left: 30px; background-color: rgba(0, 0, 0, 0.3); color: white; padding: 4px; width: calc(100% - 60px); box-sizing: border-box; font-size: 14px;">
+<div id="funPhotoGallery" style="max-width: 1000px; margin: 0 auto; position: relative;">
+  <button id="prevFunPhoto" style="position: absolute; left: 0; top: 50%; transform: translateY(-50%);">&#10094;</button>
+  <img id="currentFunPhoto" src="" alt="Fun Photo" style="max-width: 1000px; height: auto; display: block; margin: 0 auto;" />
+  <div id="photoDescription" style="position: absolute; bottom: 8px; left: 5%; background-color: rgba(0, 0, 0, 0.3); color: white; padding: 4px; width: calc(100% - 10%); box-sizing: border-box; font-size: 14px;">
     <!-- Description will be inserted here -->
   </div>
-</div>
-<div class="button-container" style="text-align: center;">
-  <button id="prevFunPhoto">Previous</button>
-  <button id="nextFunPhoto">Next</button>
+  <button id="nextFunPhoto" style="position: absolute; right: 0; top: 50%; transform: translateY(-50%);">&#10095;</button>
 </div>
 
 <script>

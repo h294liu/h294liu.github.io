@@ -18,7 +18,7 @@ html, body {
     padding: 0;
     width: 100%;
     font-family: 'Roboto', sans-serif; /*'Helvetica', Arial, sans-serif; /* Set Arial as the default font */
-    font-size: 16px; /* Default font size */
+    font-size: 18px; /* Default font size */
     line-height: 1.5; /* Adds line spacing */
 }
 
@@ -177,7 +177,7 @@ img {
 *	Header
 */
 .navigation {
-	font-size: 16px; /* Some value like 16px, 1em, etc. */
+	font-size: 1em; /* Some value like 16px, 1em, etc. */
 	margin: 0;
 	padding: 5;
 	width: 100%;
@@ -205,7 +205,7 @@ img {
     padding-top: 0.5em;
     @include media ($tablet) {
       display: none;
-    }
+    }	  
   }
   // Nav menu
   .navigation-wrapper {
@@ -506,3 +506,5 @@ img {
 	}
 
 }
+ 
+  

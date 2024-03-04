@@ -17,7 +17,7 @@ education:
 - school: Beijing Normal University
   location: China
   program: Environmental Science
-  degree: MEng
+  degree: MSc
   year: 2014
 - school: Shandong Normal University
   location: China
