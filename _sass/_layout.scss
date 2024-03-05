@@ -303,6 +303,10 @@ img {
 		@include media ($tablet) {
 	      padding-right: 1.5em;
 	    }
+		&:hover {
+			text-decoration: underline;
+			text-decoration-color: white; /* Ensure the underline color is white on hover for links as well */
+		}
 	  }
 	  &:last-child a {
 	  	@include media ($tablet) {
