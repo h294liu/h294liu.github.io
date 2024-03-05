@@ -236,6 +236,10 @@ img {
     	color: $white; /* #333 Font color */
     	 /* text-transform: uppercase;Optional: Uppercase text */
 		font-weight: bold; /* Make text bold */
+		&:hover {
+            text-decoration: underline;
+            text-decoration-color: white; /* Add this line to make underline color white on hover */
+        }
     }
   }
   nav {
