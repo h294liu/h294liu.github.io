@@ -12,4 +12,4 @@ year: 2023
 Understanding dominant hydrological processes and model parameters in mountainous regions: A case study of the Bow at Banff
 
 ### Project Abstract
-Hannah completed her Dean’s Research Award in Fall 2023. Her research focused on uncovering how water behaves in mountainous areas, taking the Bow at Banff basin as a case study. Specifically, she identified the dominant physics processes and model parameters, aiding an accurate representation of water behaviors in hydrological models. By doing this project, Hannah gained hands-on experience in conducting sensitivity analysis for process-based hdrologic models.
+Hannah did research with us for the Dean’s Research Award during Fall 2023. Her research focused on uncovering how water behaves in mountainous areas, taking the Bow at Banff basin as a case study. Specifically, she identified the dominant physics processes and model parameters, aiding an accurate representation of water behaviors in hydrological models. By doing this project, Hannah gained hands-on experience in conducting sensitivity analysis for process-based hdrologic models.

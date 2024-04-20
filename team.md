@@ -1,15 +1,29 @@
 ---
 layout: page
-title: TEAM
+title: team
 permalink: /team/
 main_nav: true
-fun_photos: 
-  - image: "2023-12-22FirstGroupMeeting.png"
-    description: "First Group Meeting in December 2023"
-  - image: "dra_2023_hannah.jpg"
-    description: "Hannah's Presentation at DRA 2023"
-  - image: "dra_2023_umalsha.jpg"
-    description: "Umalsha's Presentation at DRA 2023"
+fun_photos:
+  - image: "2024_04_18_marian_3MT2.jpg"
+    description: "Marian won prizes at the 3MT Research Symposium on April 18, 2024."
+  - image: "2024_04_18_marian_3MT1.jpg"
+    description: "Marian presented at the 3MT Research Symposium on April 18, 2024."
+  - image: "2024_04_11_quang_dra1.jpg"
+    description: "Quang presented at the DRA Poster Presentation and Competition on April 11, 2024."
+  - image: "2024_04_11_quang_dra2.jpg"
+    description: "We are so proud of you!"
+  - image: "2024_02_21_marian_ISTF.jpg"
+    description: "Marian represented Peru at the International Swiss Talent Forum in February 2024."
+  - image: "2023-12-22_first_group_meeting.png"
+    description: "Our first group meeting on December 22, 2023."
+  - image: "2023_12_11_hannah_dra.jpg"
+    description: "Hannah presented at the DRA Poster Presentation and Competition on December 11, 2023."
+  - image: "2023_12_11_umalsha_dra.jpg"
+    description: "Umalsha presented at the DRA Poster Presentation and Competition on December 11, 2023."
+  - image: "2023_04_10_hongli_reddeer.jpg"
+    description: "Measured water levels in Red Deer on April 10, 2023."
+  - image: "2023_04_02_hongli_reddeer.jpg"
+    description: "Installed the device on April 2, 2023. Race against ice melting!"
 ---
 
 ---
@@ -84,7 +98,6 @@ fun_photos:
   <button id="nextFunPhoto" style="position: absolute; right: 0; top: 50%; transform: translateY(-50%);">&#10095;</button>
 </div>
 
-
 <script>
 document.addEventListener('DOMContentLoaded', function () {
   const galleryItems = [
@@ -93,6 +106,8 @@ document.addEventListener('DOMContentLoaded', function () {
     {% endfor %}
   ];
   let currentIndex = 0;
+  const autoSwitchInterval = 5000; // Auto switch interval in milliseconds
+  let autoSwitchTimer; // Timer for auto switching
 
   function updateGalleryItem(index) {
     const photoElement = document.getElementById('currentFunPhoto');
@@ -102,21 +117,47 @@ document.addEventListener('DOMContentLoaded', function () {
     descriptionElement.innerHTML = galleryItems[index].description; // Update the description
   }
 
+  // Function to switch to the next photo
+  function nextPhoto() {
+    currentIndex = (currentIndex + 1) % galleryItems.length;
+    updateGalleryItem(currentIndex);
+  }
+
+  // Function to switch to the previous photo
+  function prevPhoto() {
+    currentIndex = (currentIndex - 1 + galleryItems.length) % galleryItems.length;
+    updateGalleryItem(currentIndex);
+  }
+
   // Initialize with the first item
   updateGalleryItem(currentIndex);
 
-  document.getElementById('prevFunPhoto').addEventListener('click', function() {
-    currentIndex = (currentIndex - 1 + galleryItems.length) % galleryItems.length;
-    updateGalleryItem(currentIndex);
+  // Event listener for next button click
+  document.getElementById('nextFunPhoto').addEventListener('click', function() {
+    clearInterval(autoSwitchTimer); // Pause auto-switching
+    nextPhoto();
+    autoSwitchTimer = setInterval(nextPhoto, autoSwitchInterval); // Resume auto-switching
   });
 
-  document.getElementById('nextFunPhoto').addEventListener('click', function() {
-    currentIndex = (currentIndex + 1) % galleryItems.length;
-    updateGalleryItem(currentIndex);
+  // Event listener for previous button click
+  document.getElementById('prevFunPhoto').addEventListener('click', function() {
+    clearInterval(autoSwitchTimer); // Pause auto-switching
+    prevPhoto();
+    autoSwitchTimer = setInterval(nextPhoto, autoSwitchInterval); // Resume auto-switching
+  });
 
-  // Optional: If you expect the window to resize and want to maintain the alignment
-  window.addEventListener('resize', updateDescriptionWidth);
+  // Automatic switching of photos
+  autoSwitchTimer = setInterval(nextPhoto, autoSwitchInterval);
 
+  // Event listener to pause auto-switching when mouse enters the image area
+  document.getElementById('currentFunPhoto').addEventListener('mouseenter', function() {
+    clearInterval(autoSwitchTimer); // Pause auto-switching
+  });
+
+  // Event listener to resume auto-switching when mouse leaves the image area
+  document.getElementById('currentFunPhoto').addEventListener('mouseleave', function() {
+    autoSwitchTimer = setInterval(nextPhoto, autoSwitchInterval); // Resume auto-switching
   });
 });
 </script>
+

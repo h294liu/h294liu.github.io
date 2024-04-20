@@ -32,7 +32,7 @@ main_nav: true
 
 
 <p>
-Our research group aims to advance process-based hydrologic modeling, and its application in predictions (including floods and droughts) and impact assessment under climate change. Specifically, we seek to: (1) uncover the underlying causes of extreme hydrologic events, (2) enhance the representation of hydrologic processes in models, (3) minimize uncertainty in model outputs, and (4) generate ensemble hydrologic predictions under future climate scenarios. See below for examples.
+Our research group aims to advance process-based hydrologic modeling, and its applications in predicting extreme hydrologic events, including floods and droughts, and assessing climate change impacts. Specifically, we seek to: (a) uncover the underlying causes of extreme hydrologic events, (b) enhance the representation of hydrologic processes in models, (c) improve the efficiency of large-domain parameter estimation, and (d) generate reliable ensemble hydrologic predictions for extreme weather and climate change. See below for examples.
 
 <hr>
 <div class="flex-container">
@@ -42,7 +42,7 @@ Our research group aims to advance process-based hydrologic modeling, and its ap
     <div class="text-container">
         <h4 id="paragraph2">Uncovering Flood Causes for Future Predictions</h4>
         <p>
-        This research develops insights into the underlying causes of flooding events by leveraging advanced analytical techniques. Additionally, we examine the impact of climatic change on flood magnitude and frequency, and predict future floods by considering various environmental changes.
+        This research develops insights into the underlying causes of flooding events by leveraging advanced analytical techniques. We also examine the impact of climatic change on flood magnitude and frequency, and predict future floods by considering various environmental changes.
         </p>
     </div>
 </div>
@@ -68,9 +68,9 @@ Our research group aims to advance process-based hydrologic modeling, and its ap
         <img src="{{ site.baseurl }}/assets/img_research/topic3.jpg" alt="Descriptive Alt Text">
     </div>
     <div class="text-container">
-        <h4 id="paragraph2">Optimizing Model Complexity</h4>
+        <h4 id="paragraph2">Optimizing Model Spatial Configuration</h4>
         <p>
-        Model complexity and process representation are highly dependent on spatial discretization (i.e., dividing a domain into homogeneous computational units, such as grids or hydrologic response units). Our research focuses on generalizing guidelines for determining the appropriate model complexity to represent the spatial heterogeneity across scales. 
+        Model complexity and process representation are highly dependent on spatial discretization, which is a process of dividing a domain into homogeneous computational units, such as grids or hydrologic response units. We work on finding out the appropriate model complexity to represent the spatial heterogeneity across scales. 
         </p>
     </div>
 </div>

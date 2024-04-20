@@ -1,10 +1,12 @@
 ---
-layout: current_member     # don't change
+layout: former_member_undergrad     # don't change
 name: Quang Ngo
 date: 2024-01-02           # don't change, used for laying out members. 
-categories: current_member # don't change
+categories: former_member_undergrad # don't change
 img: quang_ngo.jpg
-position: Undergraduate student
+program: Dean's Research Awards 
+term: Fall 2023, Winter 2024
+year:  
 social:
 - title: envelope #use for email address
   url: "mailto:qhngo@ualberta.ca"
@@ -21,4 +23,4 @@ positions_held:
 Assessing the influence of hydrologic model complexity on snowmelt and streamflow simulation
 
 ### Short Bio
-Quang is undertaking his Dean's Research Award in Fall 2023 and continuing through Winter 2024. His research investigates whether enhancing the snow-related spatial representation, through refined spatial discretization, can bring us improved streamflow prediction in mountainous regions. The hypothesis is that better considering the snow-related characteristics in spatial discretization can enhance our ability of streamflow prediction.
+Quang did research with us for the Dean’s Research Award during Fall 2023 and Winter 2024. His research investigated whether enhancing the snow-related spatial representation, through refined spatial discretization, can bring us improved streamflow prediction in mountainous regions. He found that better considering the snow-related characteristics in spatial discretization enhances our ability of streamflow prediction.

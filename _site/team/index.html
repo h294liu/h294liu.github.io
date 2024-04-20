@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>TEAM</title>
+  <title>team</title>
   <meta name="description" content="">
   
   <meta name="author" content="Hongli Liu">
@@ -95,7 +95,7 @@
 	
 
 	
-	<li class="nav-link"><a href="/team/">TEAM</a>
+	<li class="nav-link"><a href="/team/">team</a>
 	
 
 	
@@ -185,18 +185,6 @@
 <div class="col-lg-3 col-md-3 col-sm-3">
     <div class="member-info">
       <div class="image-container square-image">
-        <img src="/assets/img/quang_ngo.jpg" alt="Quang Ngo" />
-      </div>
-      <div class="text-container">
-        <h4><a href="/current_member/2024/01/02/quang_ngo.html">Quang Ngo</a></h4>
-        <p style="line-height: 1.0;">Undergraduate student</p>
-      </div>
-    </div>
-  </div>
-
-<div class="col-lg-3 col-md-3 col-sm-3">
-    <div class="member-info">
-      <div class="image-container square-image">
         <img src="/assets/img/marian_poblete.jpg" alt="Marian Ariadne Montalvo Poblete" />
       </div>
       <div class="text-container">
@@ -221,6 +209,20 @@
 <hr />
 
 <h3>Former Undergraduate Students</h3>
+
+<div class="col-lg-3 col-md-3 col-sm-3">
+    <div class="member-info">
+      <div class="image-container square-image">
+        <img src="/assets/img/quang_ngo.jpg" alt="Quang Ngo" />
+      </div>
+      <div class="text-container">
+        <h4><a href="/former_member_undergrad/2024/01/02/quang_ngo.html">Quang Ngo</a></h4>
+        <!-- Add other text content here -->
+        <p style="line-height: 1.0;">Dean's Research Awards, Fall 2023, Winter 2024 </p>
+      </div>
+    </div>
+  </div>
+<!-- /col-lg-3 -->
 
 <div class="col-lg-3 col-md-3 col-sm-3">
     <div class="member-info">
@@ -266,14 +268,30 @@
 document.addEventListener('DOMContentLoaded', function () {
   const galleryItems = [
     
-      { src: "/assets/gallery/2023-12-22FirstGroupMeeting.png", description: "First Group Meeting in December 2023" },
+      { src: "/assets/gallery/2024_04_18_marian_3MT2.jpg", description: "Marian won prizes at the 3MT Research Symposium on April 18, 2024." },
     
-      { src: "/assets/gallery/dra_2023_hannah.jpg", description: "Hannah&#39;s Presentation at DRA 2023" },
+      { src: "/assets/gallery/2024_04_18_marian_3MT1.jpg", description: "Marian presented at the 3MT Research Symposium on April 18, 2024." },
     
-      { src: "/assets/gallery/dra_2023_umalsha.jpg", description: "Umalsha&#39;s Presentation at DRA 2023" },
+      { src: "/assets/gallery/2024_04_11_quang_dra1.jpg", description: "Quang presented at the DRA Poster Presentation and Competition on April 11, 2024." },
+    
+      { src: "/assets/gallery/2024_04_11_quang_dra2.jpg", description: "We are so proud of you!" },
+    
+      { src: "/assets/gallery/2024_02_21_marian_ISTF.jpg", description: "Marian represented Peru at the International Swiss Talent Forum in February 2024." },
+    
+      { src: "/assets/gallery/2023-12-22_first_group_meeting.png", description: "Our first group meeting on December 22, 2023." },
+    
+      { src: "/assets/gallery/2023_12_11_hannah_dra.jpg", description: "Hannah presented at the DRA Poster Presentation and Competition on December 11, 2023." },
+    
+      { src: "/assets/gallery/2023_12_11_umalsha_dra.jpg", description: "Umalsha presented at the DRA Poster Presentation and Competition on December 11, 2023." },
+    
+      { src: "/assets/gallery/2023_04_10_hongli_reddeer.jpg", description: "Measured water levels in Red Deer on April 10, 2023." },
+    
+      { src: "/assets/gallery/2023_04_02_hongli_reddeer.jpg", description: "Installed the device on April 2, 2023. Race against ice melting!" },
     
   ];
   let currentIndex = 0;
+  const autoSwitchInterval = 5000; // Auto switch interval in milliseconds
+  let autoSwitchTimer; // Timer for auto switching
 
   function updateGalleryItem(index) {
     const photoElement = document.getElementById('currentFunPhoto');
@@ -283,21 +301,46 @@ document.addEventListener('DOMContentLoaded', function () {
     descriptionElement.innerHTML = galleryItems[index].description; // Update the description
   }
 
+  // Function to switch to the next photo
+  function nextPhoto() {
+    currentIndex = (currentIndex + 1) % galleryItems.length;
+    updateGalleryItem(currentIndex);
+  }
+
+  // Function to switch to the previous photo
+  function prevPhoto() {
+    currentIndex = (currentIndex - 1 + galleryItems.length) % galleryItems.length;
+    updateGalleryItem(currentIndex);
+  }
+
   // Initialize with the first item
   updateGalleryItem(currentIndex);
 
-  document.getElementById('prevFunPhoto').addEventListener('click', function() {
-    currentIndex = (currentIndex - 1 + galleryItems.length) % galleryItems.length;
-    updateGalleryItem(currentIndex);
+  // Event listener for next button click
+  document.getElementById('nextFunPhoto').addEventListener('click', function() {
+    clearInterval(autoSwitchTimer); // Pause auto-switching
+    nextPhoto();
+    autoSwitchTimer = setInterval(nextPhoto, autoSwitchInterval); // Resume auto-switching
   });
 
-  document.getElementById('nextFunPhoto').addEventListener('click', function() {
-    currentIndex = (currentIndex + 1) % galleryItems.length;
-    updateGalleryItem(currentIndex);
+  // Event listener for previous button click
+  document.getElementById('prevFunPhoto').addEventListener('click', function() {
+    clearInterval(autoSwitchTimer); // Pause auto-switching
+    prevPhoto();
+    autoSwitchTimer = setInterval(nextPhoto, autoSwitchInterval); // Resume auto-switching
+  });
 
-  // Optional: If you expect the window to resize and want to maintain the alignment
-  window.addEventListener('resize', updateDescriptionWidth);
+  // Automatic switching of photos
+  autoSwitchTimer = setInterval(nextPhoto, autoSwitchInterval);
 
+  // Event listener to pause auto-switching when mouse enters the image area
+  document.getElementById('currentFunPhoto').addEventListener('mouseenter', function() {
+    clearInterval(autoSwitchTimer); // Pause auto-switching
+  });
+
+  // Event listener to resume auto-switching when mouse leaves the image area
+  document.getElementById('currentFunPhoto').addEventListener('mouseleave', function() {
+    autoSwitchTimer = setInterval(nextPhoto, autoSwitchInterval); // Resume auto-switching
   });
 });
 </script>

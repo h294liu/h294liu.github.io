@@ -33,13 +33,14 @@ main_nav: true
 <h3>Available Positions & Opportunities</h3>
 <hr>
 <h4>Graduate Students</h4>
-Currently, there are no positions open for graduate students. 
-However, we encourage students exploring financial support opportunities <a href="https://www.ualberta.ca/graduate-studies/awards-and-funding/index.html">here</a>, including:
-- Government of Canada, Government of Alberta, and donors
-- International Student Funding
-- Postdoctoral Fellow Funding
+Currently, there are no positions open for graduate students. However, we encourage students exploring financial support opportunities from:
+- <a href="https://www.nserc-crsng.gc.ca/Students-Etudiants/index_eng.asp">Natural Sciences and Engineering Research Council of Canada (NSERC)</a> 
+- <a href="https://www.ualberta.ca/graduate-studies/awards-and-funding/scholarships/index.html">University scholarships and fellowships</a> 
+- <a href="https://www.ualberta.ca/graduate-studies/awards-and-funding/international-student-funding.html">International student funding</a> 
+- <a href="https://www.ualberta.ca/graduate-studies/awards-and-funding/postdoctoral-fellow-funding/index.html">Postdoctoral fellow funding</a> 
+
     
-<b>Note:</b> Selection for interviews will be communicated directly. Ensure eligibility for our graduate programs <a href="https://www.ualberta.ca/engineering/civil-environmental-engineering/graduate-programs/how-to-apply/admission-requirements.html">here</a>.
+Our graduate program admission requirements are <a href="https://www.ualberta.ca/engineering/civil-environmental-engineering/graduate-programs/how-to-apply/admission-requirements.html">here</a>. We thank all applicants for their interest; however, only candidates selected for interviews will be contacted. ​
 
 <hr>
 <h4>Sponsored Students and Professors</h4>

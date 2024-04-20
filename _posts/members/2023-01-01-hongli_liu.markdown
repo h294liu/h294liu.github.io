@@ -11,7 +11,7 @@ social:
 education:
 - school: University of Waterloo
   location: Canada
-  program: Civil Engineering
+  program: Civil Engineering, Collaborative Water Program
   degree: PhD
   year: 2019
 - school: Beijing Normal University
@@ -42,4 +42,4 @@ orcid_url: "https://orcid.org/0000-0002-2756-3247"
 ---
 
 ### Short Bio
-The primary research interest of my research group is in advancing hydrologic modeling and its applications in extreme event predictions (e.g., floods and droughts) and climate change impact assessments across multiple scales.  
+The primary research interest of my research group is in advancing hydrologic modeling and its applications in extreme hydrologic predictions (e.g., floods and droughts) and climate change impact assessments across multiple scales.  
