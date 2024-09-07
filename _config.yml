@@ -34,12 +34,15 @@ navigation:
   - name: Team
     url: "/team/"
     order: 3
+  - name: Gallery
+    url: "/gallery/"
+    order: 4  
   - name: Join
     url: "/join/"
-    order: 4
+    order: 5
   - name: Contact
     url: "/contact/"
-    order: 5
+    order: 6
 
 # Build settings
 markdown: kramdown

@@ -1,0 +1,31 @@
+---
+layout: current_member
+name: Chang Sun
+date: 2024-09-01 # don't change - this is used for sorting only
+categories: current_member
+img: chang_sun.jpg
+position: PhD student
+social:
+- title: envelope #use for email address
+  url: "mailto:csun15@ualberta.ca"
+education:
+- school: University of Alberta
+  location: Canada
+  program: Water Resources Engineering
+  degree: PhD student
+  year: 2024 - present
+- school: Huazhong University of Science and Technology
+  location: China
+  program: Hydraulic Engineering
+  degree: MSc
+  year: 2024
+- school: North China University of Water Resources and Electric Power
+  location: China
+  program: Engineering Cost
+  degree: BSc
+  year: 2021
+
+---
+
+### Short Bio
+Chang is a PhD student in Water Resources Engineering at the University of Alberta. During her master's studies, she focused on integrating hydrological models with remote sensing, using machine learning to address watershed water issues. Her current research focuses on optimizing low-altitude snow observation networks to improve the prediction of spring ice jam flooding. In her free time, Chang enjoys swimming, working out, and reading.

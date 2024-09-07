@@ -126,31 +126,57 @@ img {
 /*
 * Member info (image on left, text on right)
 */
-.member-info {
+/* Container for multiple member info blocks */
+.row {
   display: flex;
-  align-items: center; /* Align items to the top (left) */
-  flex-direction: row;
+  flex-wrap: wrap; /* Allow items to wrap to the next line */
+  margin: 10px; /* Adjust negative margin to balance the padding of columns */
 }
 
-.square-image {
-  width: 180px; /* Fixed width for the image container */
-  height: 180px; /* Adjust the height as needed */
-  margin-right: 15px; /* Adjust the spacing between image and text */
+.col-lg-3, .col-md-3, .col-sm-3 {
+  flex: 1 1 33%; /* Allow columns to take up 33% of the row, resulting in 3 columns per row */
+  box-sizing: border-box; /* Ensure padding and border are included in element’s total width and height */
+}
+
+/* Style the container for images and related text */
+.member-info {
+  text-align: center; /* Center-align the content */
+}
+
+/* Style the image container within .member-info */
+.member-info .square-image {
+  width: 190px; /* Fixed width for the image container */
+  height: 190px; /* Adjust the height as needed */
+  margin: 0 25px 0px; /* Center the image and add bottom margin */
   overflow: hidden;
 }
 
-.square-image img {
+/* Ensure the image fits within its container */
+.member-info .square-image img {
   display: block;
   width: 100%;
   height: 100%;
   object-fit: cover; /* Maintain image aspect ratio and cover the entire square */
 }
 
-.text-container {
-  text-align: left;
+/* Style the text container within .member-info */
+.member-info .text-container {
+  font-size: 1.0em; /* Adjust font size as needed */
+  text-align: center; /* Center-align the text */
+  word-wrap: break-word; /* Ensure long words break and wrap to the next line */
+  line-height: 1.0; /* Adjust line height for better readability */
+}
 
-.text-container p {
-  line-height: 0; /* Adjust the line height for paragraphs */
+/* Style h4 headers within .text-container inside .member-info */
+.member-info .text-container h4 {
+  font-size: 1.0em; 
+  margin-top: 0px; /* Adjust top margin for h4 headers */
+  margin-bottom: 0px; /* Adjust bottom margin for h4 headers */
+}
+
+/* Style paragraphs within .text-container inside .member-info */
+.member-info .text-container p {
+  line-height: 1.0; /* Adjust line height for paragraphs */
 }
 
 .social-links {
@@ -168,8 +194,6 @@ img {
 
 .education-background li {
   margin-bottom: 5px; /* Adjust the spacing between education background items */
-}
-
 }
 
   

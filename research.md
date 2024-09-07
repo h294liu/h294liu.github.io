@@ -23,6 +23,7 @@ main_nav: true
 
     .text-container {
         flex: 3;
+        text-align: left;
     }
 
     .text-container p {

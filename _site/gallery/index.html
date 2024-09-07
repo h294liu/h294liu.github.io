@@ -6,8 +6,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Hongli_liu</title>
-  <meta name="description" content="Short BioThe primary research interest of my research group is in advancing hydrologic modeling and its applications in extreme hydrologic predictions (e.g.,...">
+  <title>Gallery</title>
+  <meta name="description" content="">
   
   <meta name="author" content="Hongli Liu">
   <meta name="copyright" content="&copy; Hongli Liu 2024">
@@ -47,7 +47,7 @@
 
   <!-- Site styles -->
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://localhost:4000/current_member/2023/01/01/hongli_liu.html">
+  <link rel="canonical" href="http://localhost:4000/gallery/">
 	<link rel="alternate" type="application/rss+xml" title="Computational Hydrology Group" href="http://localhost:4000/feed.xml" />
 	
 	<!-- Tooltips -->
@@ -131,83 +131,111 @@
 
 
     <div class="page-content">
-        <style>
-  /* Add your custom styles here */
-  h3 {
-  margin-top: 5px;
-  margin-bottom: 5px;
-  line-height: 1.0; /* Adjust line height for tighter text spacing */
-}
+        <div class="wrapper">
+<div class="page">
 
-</style>
-
-<div class="container custom-container">
-  <div class="image-container">
-      <img src="/assets/img/hongli_liu.jpg" alt="Hongli Liu" class="img-fluid center-image">
-  </div>
-  
-  
-    <h2 style="display: inline-block; margin-right: 10px;">Hongli Liu</h2>
-
-    
-
-    
-    <a href="https://scholar.google.ca/citations?user=im9DUhAAAAAJ&hl=en&authuser=1" target="_blank" title="Google Scholar" style="display: inline-block;">
-      <img src="/assets/icons/GoogleScholar.png" alt="GoogleScholar" style="width: 30px; height: auto; vertical-align: bottom; margin-left: 5px;">
-    </a>
-     
-
-    
-    <a href="https://orcid.org/0000-0002-2756-3247" target="_blank" title="ORCID" style="display: inline-block;">
-      <img src="/assets/icons/ORCID.png" alt="ORCID" style="width: 30px; height: auto; vertical-align: bottom; margin-left: 5px;">
-    </a>
-      
-
-    <div class="contact-info">
-      <a href="">hongli.liu@ualberta.ca</a></p>
+  <article class="post-content">
+    <div id="funPhotoGallery" style="max-width: 1300px; margin: 0 auto; position: relative;">
+  <button id="prevFunPhoto" style="position: absolute; left: 0; top: 50%; transform: translateY(-50%);">&#10094;</button>
+  <div style="text-align: center;">
+    <img id="currentFunPhoto" src="" alt="Fun Photo" style="max-width: 100%; max-height: 600px; width: auto; height: auto; display: inline-block;" />
+    <!-- Line under the photo -->
+<!--     <hr style="border: none; border-top: 2px solid black; margin: 10px 0; width: 90%;"> -->
+    <!-- Description under the line -->
+    <div id="photoDescription" style="color: black; font-size: 16px;">
+      <!-- Description will be inserted here -->
     </div>
+  </div>
+  <button id="nextFunPhoto" style="position: absolute; right: 0; top: 50%; transform: translateY(-50%);">&#10095;</button>
+</div>
 
-    <h3>Education</h3>
-    <ul>
-      
-        <li>
-          PhD, Civil Engineering, Collaborative Water Program, University of Waterloo, Canada (2019)
-        </li>
-      
-        <li>
-          MSc, Environmental Science, Beijing Normal University, China (2014)
-        </li>
-      
-        <li>
-          BSc, Geography, Shandong Normal University, China (2011)
-        </li>
-      
-    </ul>
-
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  const galleryItems = [
     
-      <h3>Employment</h3>
-      <ul>
-        
-          <li>
-            Assistant Professor, University of Alberta, Edmonton, Alberta, Canada (2023 - present)
-          </li>
-        
-          <li>
-            Postdoctoral Fellow, University of Saskatchewan, Canmore, Alberta, Canada (2021-2022)
-          </li>
-        
-          <li>
-            Postdoctoral Fellow, National Center for Atmospheric Research, Boulder, Colorado, USA (2019-2021)
-          </li>
-        
-      </ul>
+      { src: "/assets/gallery/2024-06-05_minh_at_bow.jpg", description: "Minh, our computer science student, visited his study area Bow at Banff on June 5, 2024." },
     
-
-    <p><h3 id="short-bio">Short Bio</h3>
-<p>The primary research interest of my research group is in advancing hydrologic modeling and its applications in extreme hydrologic predictions (e.g., floods and droughts) and climate change impact assessments across multiple scales.</p>
-</p>
-
+      { src: "/assets/gallery/2024_04_18_marian_3MT2.jpg", description: "Marian won prizes at the 3MT Research Symposium on April 18, 2024." },
     
+      { src: "/assets/gallery/2024_04_18_marian_3MT1.jpg", description: "Marian presented at the 3MT Research Symposium on April 18, 2024." },
+    
+      { src: "/assets/gallery/2024_04_11_quang_dra1.jpg", description: "Quang presented at the DRA Poster Presentation and Competition on April 11, 2024." },
+    
+      { src: "/assets/gallery/2024_04_11_quang_dra2.jpg", description: "We were at the DRA event." },
+    
+      { src: "/assets/gallery/2024_02_21_marian_ISTF.jpg", description: "Marian represented Peru at the International Swiss Talent Forum in February 2024." },
+    
+      { src: "/assets/gallery/2023-12-22_first_group_meeting.png", description: "Our first group meeting on December 22, 2023." },
+    
+      { src: "/assets/gallery/2023_12_11_hannah_dra.jpg", description: "Hannah presented at the DRA Poster Presentation and Competition on December 11, 2023." },
+    
+      { src: "/assets/gallery/2023_12_11_umalsha_dra.jpg", description: "Umalsha presented at the DRA Poster Presentation and Competition on December 11, 2023." },
+    
+      { src: "/assets/gallery/2023_04_10_hongli_reddeer.jpg", description: "Hongli measured water levels in Red Deer on April 10, 2023." },
+    
+      { src: "/assets/gallery/2023_04_02_hongli_reddeer.jpg", description: "Hongli installed device on April 2, 2023. Race against ice melting!" },
+    
+  ];
+  let currentIndex = 0;
+  const autoSwitchInterval = 5000; // Auto switch interval in milliseconds
+  let autoSwitchTimer; // Timer for auto switching
+
+  function updateGalleryItem(index) {
+    const photoElement = document.getElementById('currentFunPhoto');
+    const descriptionElement = document.getElementById('photoDescription');
+    photoElement.src = galleryItems[index].src;
+    photoElement.alt = galleryItems[index].description; // Update alt text for accessibility
+    descriptionElement.innerHTML = galleryItems[index].description; // Update the description
+  }
+
+  // Function to switch to the next photo
+  function nextPhoto() {
+    currentIndex = (currentIndex + 1) % galleryItems.length;
+    updateGalleryItem(currentIndex);
+  }
+
+  // Function to switch to the previous photo
+  function prevPhoto() {
+    currentIndex = (currentIndex - 1 + galleryItems.length) % galleryItems.length;
+    updateGalleryItem(currentIndex);
+  }
+
+  // Initialize with the first item
+  updateGalleryItem(currentIndex);
+
+  // Event listener for next button click
+  document.getElementById('nextFunPhoto').addEventListener('click', function() {
+    clearInterval(autoSwitchTimer); // Pause auto-switching
+    nextPhoto();
+    autoSwitchTimer = setInterval(nextPhoto, autoSwitchInterval); // Resume auto-switching
+  });
+
+  // Event listener for previous button click
+  document.getElementById('prevFunPhoto').addEventListener('click', function() {
+    clearInterval(autoSwitchTimer); // Pause auto-switching
+    prevPhoto();
+    autoSwitchTimer = setInterval(nextPhoto, autoSwitchInterval); // Resume auto-switching
+  });
+
+  // Automatic switching of photos
+  autoSwitchTimer = setInterval(nextPhoto, autoSwitchInterval);
+
+  // Event listener to pause auto-switching when mouse enters the image area
+  document.getElementById('currentFunPhoto').addEventListener('mouseenter', function() {
+    clearInterval(autoSwitchTimer); // Pause auto-switching
+  });
+
+  // Event listener to resume auto-switching when mouse leaves the image area
+  document.getElementById('currentFunPhoto').addEventListener('mouseleave', function() {
+    autoSwitchTimer = setInterval(nextPhoto, autoSwitchInterval); // Resume auto-switching
+  });
+});
+</script>
+
+
+  </article>
+
+</div>
 </div>
 
     </div>

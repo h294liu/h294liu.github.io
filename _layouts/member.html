@@ -59,7 +59,7 @@ layout: default
         <a href="{{ page.email }}">{{ page.social[0].url | replace: "mailto:", "" }}</a></p>
       </div>
 
-      <h3>Education</h3>
+      <h4>Education</h4>
       <ul>
         {% for edu in page.education %}
           <li>
@@ -69,7 +69,7 @@ layout: default
       </ul>
 
       {% if page.positions_held != null and page.positions_held.size > 0 %}
-        <h3>Employment</h3>
+        <h4>Employment</h4>
         <ul>
           {% for position in page.positions_held %}
             <li>
