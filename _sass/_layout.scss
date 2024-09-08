@@ -145,9 +145,9 @@ img {
 
 /* Style the image container within .member-info */
 .member-info .square-image {
-  width: 190px; /* Fixed width for the image container */
-  height: 190px; /* Adjust the height as needed */
-  margin: 0 25px 0px; /* Center the image and add bottom margin */
+  width: 170px; /* Fixed width for the image container */
+  height: 180px; /* Adjust the height as needed */
+  margin: 0 40px 0px; /* Center the image and add bottom margin */
   overflow: hidden;
 }
 
@@ -161,7 +161,6 @@ img {
 
 /* Style the text container within .member-info */
 .member-info .text-container {
-  font-size: 1.0em; /* Adjust font size as needed */
   text-align: center; /* Center-align the text */
   word-wrap: break-word; /* Ensure long words break and wrap to the next line */
   line-height: 1.0; /* Adjust line height for better readability */
@@ -176,6 +175,7 @@ img {
 
 /* Style paragraphs within .text-container inside .member-info */
 .member-info .text-container p {
+  font-size: 0.9em;
   line-height: 1.0; /* Adjust line height for paragraphs */
 }
 
