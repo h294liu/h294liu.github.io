@@ -14,6 +14,8 @@ ul li {
 
 <h3>Journal Articles</h3>
 
+- Gharari, S. Whitfield, P.H., Pietroniro, A., Freer, J., **Liu, H.** and Clark, M.P., 2024. Exploring the provenance of information across Canadian hydrometric stations: implications for discharge estimation and uncertainty quantification. _Hydrology and Earth System Sciences_, 28, 4383–4405. [https://doi.org/10.5194/hess-28-4383-2024](https://doi.org/10.5194/hess-28-4383-2024)
+
 - **Liu, H.**, Clark, M.P., Gharari, S., Sheikholeslami, R., Freer, J., Knoben, W.J., Marsh, C.B. and Papalexiou, S.M., 2024. An improved copula‐based framework for efficient global sensitivity analysis. _Water Resources Research_, 60(1), p.e2022WR033808. [https://doi.org/10.1029/2022WR033808](https://doi.org/10.1029/2022WR033808)
 
 - Tang, G., Clark, M.P., Knoben, W.J., **Liu, H.**, Gharari, S., Arnal, L., Beck, H.E., Wood, A.W., Newman, A.J. and Papalexiou, S.M., 2023. The impact of meteorological forcing uncertainty on hydrological modeling: A global analysis of cryosphere basins. _Water Resources Research_, p.e2022WR033767. [https://doi.org/10.1029/2022WR033808](https://doi.org/10.1029/2022WR033808)
@@ -41,7 +43,7 @@ ul li {
 
 - Watershed discretization toolbox. [link](https://github.com/NCAR/watershed_tools.git)
 
-<hr>
+<!-- <hr>
 <h3>Selected Presentations</h3>
 
 - **Liu, H.**, Clark, M., Tang, G., Knoben, W., Gharari, S., Freer, J., Arnal, L. and Casson, D., 2023. Sensitivity analysis of the SUMMA model on the global scale. EGU General Assembly 2023, Vienna, Austria.
@@ -67,3 +69,4 @@ ul li {
 - **Liu, H.**, Thiboult, A., Tolson, B.A., Anctil, F., Mai, J., 2018. Efficient treatment of climate data uncertainty in ensemble Kalman filter based on an existing historical climate ensemble dataset. CGU, CSSS and CIG Joint Annual Meeting 2018, Niagara falls, Canada.
 
 - **Liu, H.**, Tolson, B. A., 2017. An improved model calibration framework by incorporating data uncertainty. AGU Fall Meeting 2017, New Orleans, United States of America.
+ -->

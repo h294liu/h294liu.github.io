@@ -131,7 +131,7 @@ img { max-width: 200px; margin: auto; padding-bottom: 0.5em; }
 .member-info .text-container h4 { font-size: 1.0em; margin-top: 0px; /* Adjust top margin for h4 headers */ margin-bottom: 0px; /* Adjust bottom margin for h4 headers */ }
 
 /* Style paragraphs within .text-container inside .member-info */
-.member-info .text-container p { font-size: 0.9em; line-height: 1.0; /* Adjust line height for paragraphs */ }
+.member-info .text-container p { font-size: 0.95em; line-height: 1.0; /* Adjust line height for paragraphs */ }
 
 .social-links { /* Add your social links styling here */ }
 

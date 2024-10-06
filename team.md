@@ -25,7 +25,7 @@ main_nav: true
 
 <hr>
 
-<h4>Former group members</h4>
+<h4>Former undergraduate students</h4>
 <div class="row">
 <!--     {% for member in site.categories['former_member_grad'] reversed %}
       <li>
@@ -41,7 +41,7 @@ main_nav: true
         </div>
         <div class="text-container">
           <h4><a href="{{ member.url | prepend: site.baseurl }}">{{ member.name }}</a></h4>
-          <p>UG student</p>
+          <p>{{ member.term }}</p>
         </div>
       </div>
     </div>

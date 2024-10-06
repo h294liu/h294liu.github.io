@@ -5,8 +5,8 @@ date: 2024-01-04           # don't change, used for laying out members.
 categories: former_member_undergrad # don't change
 img: marian_poblete.jpg
 program: Emerging Leaders in the Americas Program 
-term: Fall
-year: 2023
+term: Winter 2024
+year: 
 social:
 - title: envelope #use for email address
   url: "mailto:marian.montalvo@utec.edu.pe"

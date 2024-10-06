@@ -3,7 +3,7 @@ layout: current_member     # don't change
 name: Jian Shi
 date: 2023-09-01           # date that you joined the group
 categories: current_member # don't change
-img: jian_shi.jpeg
+img: jian_shi.jpg
 position: PhD student
 social:
 - title: envelope #use for email address

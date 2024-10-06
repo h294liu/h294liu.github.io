@@ -5,8 +5,8 @@ date: 2024-04-01           # don't change, used for laying out members.
 categories: former_member_undergrad # don't change
 img: minh_le.jpg
 program: Emerging Leaders in the Americas Program 
-term: Summer
-year: 2024
+term: Summer 2024
+year: 
 social:
 - title: envelope #use for email address
   url: "mailto:mhle@ualberta.ca"

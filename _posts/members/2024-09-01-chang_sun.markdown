@@ -28,4 +28,4 @@ education:
 ---
 
 ### Short Bio
-Chang is a PhD student in Water Resources Engineering at the University of Alberta. During her master's studies, she focused on integrating hydrological models with remote sensing, using machine learning to address watershed water issues. Her current research focuses on optimizing low-altitude snow observation networks to improve the prediction of spring ice jam flooding. In her free time, Chang enjoys swimming, working out, and reading.
+Chang is a PhD student in Water Resources Engineering at the University of Alberta, co-supervised by Dr. Hongli Liu and Dr. [Jennifer Nafziger](https://apps.ualberta.ca/directory/person/jnafzige). During her master's studies, she focused on integrating hydrological models with remote sensing, using machine learning to address watershed water issues. Her current research focuses on investigating the flood generation mechanisms across North America. In her free time, Chang enjoys swimming, working out, and reading.

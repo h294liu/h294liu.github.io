@@ -5,8 +5,8 @@ date: 2023-04-14
 categories: former_member_undergrad
 img: umalsha_colambage.jpg
 program: Dean's Research Awards 
-term: Fall
-year: 2023
+term: Fall 2023
+year:
 linkedin_url: "https://www.linkedin.com/in/umalsha-colambage-723a75226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
 ---
 
@@ -14,5 +14,5 @@ linkedin_url: "https://www.linkedin.com/in/umalsha-colambage-723a75226?utm_sourc
 Assessing climate change impacts on snowmelt patterns in Canadian mountain regions
 
 ### Short Bio 
-Umalsha did research with us for the Dean’s Research Award during Fall 2023. His research focused on assessing the effects of climate change on snowmelt patterns in the Banff Bow River Basin. His research broadened his understanding of hydrology, equipping him with valuable skills in utilizing supercomputer clusters, mastering Python, and refining his problem-solving abilities. During his free time, Umalsha likes to spend time at the gym, play video games and listen to physics and true crime podcasts.
+Umalsha is a recipient of the Dean’s Research Award for Fall 2023. His research focused on assessing the effects of climate change on snowmelt patterns in the Banff Bow River Basin. His research broadened his understanding of hydrology, equipping him with valuable skills in utilizing supercomputer clusters, mastering Python, and refining his problem-solving abilities. During his free time, Umalsha likes to spend time at the gym, play video games and listen to physics and true crime podcasts.
 

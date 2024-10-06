@@ -33,7 +33,7 @@ main_nav: true
 
 
 <p>
-Our research group aims to advance process-based hydrologic modeling, and its applications in predicting extreme hydrologic events, including floods and droughts, and assessing climate change impacts. See below for examples.
+Our research enhances the understanding, modeling, and prediction of hydrologic processes under climate change. See below for details.
 
 <hr>
 <div class="flex-container">
@@ -41,9 +41,9 @@ Our research group aims to advance process-based hydrologic modeling, and its ap
         <img src="{{ site.baseurl }}/assets/img_research/topic1.jpg" alt="Descriptive Alt Text">
     </div>
     <div class="text-container">
-        <h4 id="paragraph2">Uncovering Flood Causes for Future Predictions</h4>
+        <h4 id="paragraph2">Understanding Hydrologic Processes</h4>
         <p>
-        We work on finding out the underlying causes of flooding events using advanced analytical techniques. Our research also explores the impact of climate change on flood magnitude and frequency, and predicts future floods by accounting for various environmental changes.
+        Our research addresses two key questions: What are the generation mechanisms of hydrologic extreme events like floods and droughts, and what are the dominant hydrologic processes in different landscapes? We classify events and assess their changes in occurrence and magnitude under climate change. Also, we identify the dominant hydrologic processes in various landscapes, providing a foundation for developing regionally tailored hydrologic models.
         </p>
     </div>
 </div>
@@ -56,9 +56,9 @@ Our research group aims to advance process-based hydrologic modeling, and its ap
         <img src="{{ site.baseurl }}/assets/img_research/topic2.jpg" alt="Descriptive Alt Text">
     </div>
     <div class="text-container">
-        <h4 id="paragraph2">Optimizing Model Spatial Configuration</h4>
+        <h4 id="paragraph2">Advancing Hydrologic Modeling</h4>
         <p>
-        Model complexity and process representation are highly dependent on spatial discretization, which is a process of dividing a domain into homogeneous computational units, such as grids or hydrologic response units. We work on finding out the appropriate model complexity to represent the spatial heterogeneity across scales. 
+        Our research focuses on two key areas: watershed delineation and parameter estimation. In watershed delineation, we aim to enhance the division of watersheds into grids or hydrologic response units (HRUs) to more effectively capture spatial heterogeneity. For parameter estimation, we work to improve the efficiency of sensitivity analysis and calibration in large-domain and complex models.  
         </p>
     </div>
 </div>
@@ -70,27 +70,12 @@ Our research group aims to advance process-based hydrologic modeling, and its ap
         <img src="{{ site.baseurl }}/assets/img_research/topic3.jpg" alt="Descriptive Alt Text">
     </div>
     <div class="text-container">
-        <h4 id="paragraph1">Enhancing Parameter Estimation</h4>
+        <h4 id="paragraph1">Enhancing Hydrologic Forecasting and Risk Management</h4>
         <p>
-        Accurate parameter estimation, or model calibration, is essential for enhancing model reliability and predictive capability. Our research uses machine learning techniques to improve the efficiency of sensitivity analysis and parameter estimation in large-scale hydrologic model applications. 
+        We develop machine learning models to improve streamflow forecasting. We integrate hydrologic and hydraulic models to enhance flood mapping. Furthermore, our research places a strong emphasis on uncertainty quantification. We work to quantify the observational uncertainties in streamflow and meteorological data, and develop methods to incorporate these uncertainties into hydrologic modeling and forecasting. 
         </p>
     </div>
 </div>
 
 <hr>
-
-
-
-
-<div class="flex-container">
-    <div class="image-container">
-        <img src="{{ site.baseurl }}/assets/img_research/topic4.jpg" alt="Descriptive Alt Text">
-    </div>
-    <div class="text-container">
-        <h4 id="paragraph2">Embracing Uncertainty in Hydrologic Forecasting</h4>
-        <p>
-        Hydrologic modeling and forecasting face various sources of uncertainty. We embrace uncertainty and work to accurately quantify the uncertainties in both historical and real-time meteorological and hydrometric observations. We also develop methodologies to utilize these uncertain data in hydrologic modeling, data assimilation, and flood mapping.
-        </p>
-    </div>
-</div>
 

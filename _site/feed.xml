@@ -5,13 +5,37 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 07 Sep 2024 22:18:52 -0600</pubDate>
-    <lastBuildDate>Sat, 07 Sep 2024 22:18:52 -0600</lastBuildDate>
+    <pubDate>Sat, 05 Oct 2024 18:10:39 -0600</pubDate>
+    <lastBuildDate>Sat, 05 Oct 2024 18:10:39 -0600</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
     
       <item>
+        <title>Ariana_smith</title>
+        <description>&lt;h3 id=&quot;project&quot;&gt;Project&lt;/h3&gt; &lt;p&gt;Evaluating a vovel rainfall-runoff event identification method – A case study of the Bow at Banff basin&lt;/p&gt; &lt;h3 id=&quot;short-bio&quot;&gt;Short Bio&lt;/h3&gt; &lt;p&gt;Ariana is a recipient of the Dean’s Research...</description>
+        <pubDate>Wed, 02 Oct 2024 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/current_member/2024/10/02/ariana_smith.html</link>
+        <guid isPermaLink="true">http://localhost:4000/current_member/2024/10/02/ariana_smith.html</guid>
+        
+        
+        <category>current_member</category>
+        
+      </item>
+    
+      <item>
+        <title>Sahibjot_singh</title>
+        <description>&lt;h3 id=&quot;project&quot;&gt;Project&lt;/h3&gt; &lt;p&gt;Leveraging supercomputing for efficient parameter estimation in hydrologic modeling&lt;/p&gt; &lt;h3 id=&quot;short-bio&quot;&gt;Short Bio&lt;/h3&gt; &lt;p&gt;Sahib is a recipient of the Dean’s Research Award for Fall 2024. His research focuses on...</description>
+        <pubDate>Tue, 01 Oct 2024 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/current_member/2024/10/01/sahibjot_singh.html</link>
+        <guid isPermaLink="true">http://localhost:4000/current_member/2024/10/01/sahibjot_singh.html</guid>
+        
+        
+        <category>current_member</category>
+        
+      </item>
+    
+      <item>
         <title>Chang_sun</title>
-        <description>&lt;h3 id=&quot;short-bio&quot;&gt;Short Bio&lt;/h3&gt; &lt;p&gt;Chang is a PhD student in Water Resources Engineering at the University of Alberta. During her master’s studies, she focused on integrating hydrological models with remote sensing,...</description>
+        <description>&lt;h3 id=&quot;short-bio&quot;&gt;Short Bio&lt;/h3&gt; &lt;p&gt;Chang is a PhD student in Water Resources Engineering at the University of Alberta, co-supervised by Dr. Hongli Liu and Dr. &lt;a href=&quot;https://apps.ualberta.ca/directory/person/jnafzige&quot;&gt;Jennifer Nafziger&lt;/a&gt;. During her master’s...</description>
         <pubDate>Sun, 01 Sep 2024 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/current_member/2024/09/01/chang_sun.html</link>
         <guid isPermaLink="true">http://localhost:4000/current_member/2024/09/01/chang_sun.html</guid>
@@ -47,7 +71,7 @@
     
       <item>
         <title>Quang_ngo</title>
-        <description>&lt;h3 id=&quot;project&quot;&gt;Project&lt;/h3&gt; &lt;p&gt;Assessing the influence of hydrologic model complexity on snowmelt and streamflow simulation&lt;/p&gt; &lt;h3 id=&quot;short-bio&quot;&gt;Short Bio&lt;/h3&gt; &lt;p&gt;Quang did research with us for the Dean’s Research Award during Fall 2023...</description>
+        <description>&lt;h3 id=&quot;project&quot;&gt;Project&lt;/h3&gt; &lt;p&gt;Assessing the influence of hydrologic model complexity on snowmelt and streamflow simulation&lt;/p&gt; &lt;h3 id=&quot;short-bio&quot;&gt;Short Bio&lt;/h3&gt; &lt;p&gt;Quang is a recipient of the Dean’s Research Award for both Fall 2023...</description>
         <pubDate>Tue, 02 Jan 2024 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/former_member_undergrad/2024/01/02/quang_ngo.html</link>
         <guid isPermaLink="true">http://localhost:4000/former_member_undergrad/2024/01/02/quang_ngo.html</guid>
@@ -71,7 +95,7 @@
     
       <item>
         <title>Umalsha_colambage</title>
-        <description>&lt;h3 id=&quot;project&quot;&gt;Project&lt;/h3&gt; &lt;p&gt;Assessing climate change impacts on snowmelt patterns in Canadian mountain regions&lt;/p&gt; &lt;h3 id=&quot;short-bio&quot;&gt;Short Bio&lt;/h3&gt; &lt;p&gt;Umalsha did research with us for the Dean’s Research Award during Fall 2023. His...</description>
+        <description>&lt;h3 id=&quot;project&quot;&gt;Project&lt;/h3&gt; &lt;p&gt;Assessing climate change impacts on snowmelt patterns in Canadian mountain regions&lt;/p&gt; &lt;h3 id=&quot;short-bio&quot;&gt;Short Bio&lt;/h3&gt; &lt;p&gt;Umalsha is a recipient of the Dean’s Research Award for Fall 2023. His research...</description>
         <pubDate>Fri, 14 Apr 2023 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/former_member_undergrad/2023/04/14/umalsha_colambage.html</link>
         <guid isPermaLink="true">http://localhost:4000/former_member_undergrad/2023/04/14/umalsha_colambage.html</guid>
@@ -83,7 +107,7 @@
     
       <item>
         <title>Hannah_tripp</title>
-        <description>&lt;h3 id=&quot;project&quot;&gt;Project&lt;/h3&gt; &lt;p&gt;Understanding dominant hydrological processes and model parameters in mountainous regions: A case study of the Bow at Banff&lt;/p&gt; &lt;h3 id=&quot;project-abstract&quot;&gt;Project Abstract&lt;/h3&gt; &lt;p&gt;Hannah did research with us for the...</description>
+        <description>&lt;h3 id=&quot;project&quot;&gt;Project&lt;/h3&gt; &lt;p&gt;Understanding dominant hydrological processes and model parameters in mountainous regions: A case study of the Bow at Banff&lt;/p&gt; &lt;h3 id=&quot;project-abstract&quot;&gt;Project Abstract&lt;/h3&gt; &lt;p&gt;Hannah is a recipient of the Dean’s...</description>
         <pubDate>Fri, 14 Apr 2023 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/former_member_undergrad/2023/04/14/hannah_tripp.html</link>
         <guid isPermaLink="true">http://localhost:4000/former_member_undergrad/2023/04/14/hannah_tripp.html</guid>
@@ -102,30 +126,6 @@
         
         
         <category>current_member</category>
-        
-      </item>
-    
-      <item>
-        <title>Serially Complete Dataset for North America</title>
-        <description>&lt;h4 id=&quot;description&quot;&gt;Description&lt;/h4&gt; &lt;p&gt;Station-based serially complete datasets (SCDs) of precipitation and temperature observations are important for hydrometeorological studies. Motivated by the lack of serially complete station observations for North America, this...</description>
-        <pubDate>Wed, 01 Jan 2020 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/group_datasets/2020/01/01/SCDNA.html</link>
-        <guid isPermaLink="true">http://localhost:4000/group_datasets/2020/01/01/SCDNA.html</guid>
-        
-        
-        <category>group_datasets</category>
-        
-      </item>
-    
-      <item>
-        <title>SUMMA</title>
-        <description>&lt;h4 id=&quot;description&quot;&gt;Description&lt;/h4&gt; &lt;p&gt;SUMMA (The Structure for Unifying Multiple Modelling Alternatives) is a hydrological modeling framework that can be used for the systematic analysis of alternative model conceptualizations with respect to...</description>
-        <pubDate>Thu, 01 Jan 2015 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/group_models/2015/01/01/summa.html</link>
-        <guid isPermaLink="true">http://localhost:4000/group_models/2015/01/01/summa.html</guid>
-        
-        
-        <category>group_models</category>
         
       </item>
     
