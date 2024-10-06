@@ -35,8 +35,8 @@ main_nav: true
 We are seeking a highly motivated PhD student to join our research group  starting in **September 2025**. The successful candidate will have the opportunity to work on research topics focused on hydrologic modeling and prediction. <br>
 
 **Desired Qualifications:** Students with the following experience and skills are particularly encouraged to apply:
-- Hydrologic modeling and forecasting
-- Analysis of extreme hydrologic events (floods and droughts)
+- Hydrologic modeling/forecasting
+- Analysis of extreme hydrologic events (floods/droughts)
 - Climate change impact assessment
 - Advanced skills in mathematics and programming
 - Proficiency in handling large datasets and high-performance computing
@@ -61,7 +61,7 @@ We encourage graduate students exploring financial support opportunities from:
 - <a href="https://www.ualberta.ca/graduate-studies/awards-and-funding/international-student-funding.html">International student funding</a> 
 - <a href="https://www.ualberta.ca/graduate-studies/awards-and-funding/postdoctoral-fellow-funding/index.html">Postdoctoral fellow funding</a> 
 
-Additionally, we welcome **China Scholarship Council (CSC)** funded PhD students, visiting PhD students, postdoctoral fellows, and academic professors all year round. More information can be found [here](https://www.ualberta.ca/en/admissions-programs/sponsored-student-program/csc-information-for-prospective-students.html).
+Additionally, we welcome **China Scholarship Council (CSC)** funded PhD students, visiting PhD students, postdoctoral fellows, and academic professors. More information can be found [here](https://www.ualberta.ca/en/admissions-programs/sponsored-student-program/csc-information-for-prospective-students.html).
 
 <hr>
 <h4>Undergraduate Students</h4>
