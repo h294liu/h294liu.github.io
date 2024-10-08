@@ -6,7 +6,6 @@ categories: current_member
 img: zhihong_liang.jpg
 position: UG student
 term: Fall 2024
-linkedin_url: "https://www.linkedin.com/in/ariana-smith-67968a324/"
 social:
 - title: envelope #use for email address
   url: "mailto:zhihong6@ualberta.ca"
