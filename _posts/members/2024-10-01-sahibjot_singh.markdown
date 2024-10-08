@@ -13,7 +13,7 @@ social:
 education:
 - school: University of Alberta
   location: Canada
-  program: Computer Engineering
+  program: Computer Engineering Co-op
   degree: Undergraduate student
   year: 2023 - present
 positions_held:

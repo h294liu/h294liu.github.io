@@ -30,14 +30,14 @@ main_nav: true
     }
 </style>
 
-<h3>PhD Opportunity in Hydrologic Modeling and Prediction</h3>
+<h3>A PhD Opportunity in Hydrologic Modeling and Prediction</h3>
 <!-- Currently, there are no positions open for graduate students.  -->
 We are seeking a highly motivated PhD student to join our research group  starting in **September 2025**. The successful candidate will have the opportunity to work on research topics focused on hydrologic modeling and prediction. <br>
 
 **Desired Qualifications:** Students with the following experience and skills are particularly encouraged to apply:
 - Hydrologic modeling/forecasting
-- Analysis of extreme hydrologic events (floods/droughts)
-- Climate change impact assessment
+- Floods/droughts analysis
+- Climate studies
 - Advanced skills in mathematics and programming
 - Proficiency in handling large datasets and high-performance computing
 - Experience with data-driven or machine learning techniques for hydrologic applications<br>

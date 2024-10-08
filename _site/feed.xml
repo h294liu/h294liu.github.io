@@ -5,9 +5,21 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 05 Oct 2024 21:18:07 -0600</pubDate>
-    <lastBuildDate>Sat, 05 Oct 2024 21:18:07 -0600</lastBuildDate>
+    <pubDate>Tue, 08 Oct 2024 10:03:04 -0600</pubDate>
+    <lastBuildDate>Tue, 08 Oct 2024 10:03:04 -0600</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>Zhihong_liang</title>
+        <description>&lt;h3 id=&quot;project&quot;&gt;Project&lt;/h3&gt; &lt;p&gt;Evaluating machine learning and process-based hydrologic models: A case study of the Bow at Banff basin&lt;/p&gt; &lt;h3 id=&quot;short-bio&quot;&gt;Short Bio&lt;/h3&gt; &lt;p&gt;Zhihong is a recipient of the Dean’s Research Award...</description>
+        <pubDate>Wed, 02 Oct 2024 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/current_member/2024/10/02/zhihong_liang.html</link>
+        <guid isPermaLink="true">http://localhost:4000/current_member/2024/10/02/zhihong_liang.html</guid>
+        
+        
+        <category>current_member</category>
+        
+      </item>
     
       <item>
         <title>Ariana_smith</title>
@@ -114,18 +126,6 @@
         
         
         <category>former_member_undergrad</category>
-        
-      </item>
-    
-      <item>
-        <title>Hongli_liu</title>
-        <description>&lt;h3 id=&quot;short-bio&quot;&gt;Short Bio&lt;/h3&gt; &lt;p&gt;The primary research interest of my research group is in advancing hydrologic modeling and its applications in extreme hydrologic predictions (e.g., floods and droughts) and climate change...</description>
-        <pubDate>Sun, 01 Jan 2023 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/current_member/2023/01/01/hongli_liu.html</link>
-        <guid isPermaLink="true">http://localhost:4000/current_member/2023/01/01/hongli_liu.html</guid>
-        
-        
-        <category>current_member</category>
         
       </item>
     
