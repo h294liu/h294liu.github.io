@@ -53,7 +53,7 @@ We are seeking a highly motivated PhD student to join our research group  starti
 - We appreciate all applications; however, only candidates selected for interviews will be contacted.
 
 <hr>
-<h3>Funding Opportunities</h3>
+<h3>Other Funding Opportunities</h3>
 <h4>Graduate students</h4>
 We encourage graduate students exploring financial support opportunities from:
 - <a href="https://www.nserc-crsng.gc.ca/Students-Etudiants/index_eng.asp">Natural Sciences and Engineering Research Council of Canada (NSERC)</a> 
