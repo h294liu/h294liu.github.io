@@ -14,6 +14,8 @@ ul li {
 
 <h3>Journal Articles</h3>
 
+- Tang, G., Clark, M.P., Knoben, W.J., **Liu, H.**, Gharari, S., Arnal, L., Wood, A.W., Newman, A.J., Freer, J., and Papalexiou, S.M., 2024. Uncertainty hotspots in global hydrologic modeling: the impact of precipitation and temperature forcings. _Bulletin of the American Meteorological Society_. [https://doi.org/10.1175/BAMS-D-24-0007.1](https://doi.org/10.1175/BAMS-D-24-0007.1)
+
 - Gharari, S. Whitfield, P.H., Pietroniro, A., Freer, J., **Liu, H.** and Clark, M.P., 2024. Exploring the provenance of information across Canadian hydrometric stations: implications for discharge estimation and uncertainty quantification. _Hydrology and Earth System Sciences_, 28, 4383–4405. [https://doi.org/10.5194/hess-28-4383-2024](https://doi.org/10.5194/hess-28-4383-2024)
 
 - **Liu, H.**, Clark, M.P., Gharari, S., Sheikholeslami, R., Freer, J., Knoben, W.J., Marsh, C.B. and Papalexiou, S.M., 2024. An improved copula‐based framework for efficient global sensitivity analysis. _Water Resources Research_, 60(1), p.e2022WR033808. [https://doi.org/10.1029/2022WR033808](https://doi.org/10.1029/2022WR033808)

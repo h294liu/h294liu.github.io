@@ -4,8 +4,32 @@ title: Gallery
 permalink: /gallery/
 main_nav: true
 fun_photos:
-  - image: "2024-06-05_minh_at_bow.jpg"
-    description: "Minh, our computer science student, visited his study area Bow at Banff on June 5, 2024."
+  - image: "2024_12_09_ariana_dra1.jpg"
+    description: "Ariana presented at the DRA Poster Presentation and Competition on Dec 09, 2024."
+  - image: "2024_12_09_ariana_dra2.jpg"
+    description: "Ariana won the Outstanding Research Performance award at the Fall 2024 DRA event! Congratulations!"
+  - image: "2024_12_09_shahib_dra.jpg"
+    description: "Shahib presented at the DRA Poster Presentation and Competition on Dec 09, 2024."
+  - image: "2024_12_09_zhihong_dra.jpg"
+    description: "Zhihong presented at the DRA Poster Presentation and Competition on Dec 09, 2024."
+  - image: "2024_11_17_chang_geo827_1.jpg"
+    description: "Chang attended the Principles of Hydrology course, offered by USaskatchewan (Oct 30 - Nov 12, 2024)."
+  - image: "2024_11_17_chang_geo827_2.png"
+    description: "Field excursions in the Kananaskis Valley, Principles of Hydrology course."
+  - image: "2024_11_17_chang_geo827_3.png"
+    description: "Field excursions in the Kananaskis Valley, Principles of Hydrology course."
+  - image: "2024_11_17_chang_geo827_4.png"
+    description: "Field excursions in the Kananaskis Valley, Principles of Hydrology course."
+  - image: "2024_10_31water_sustainability_summit.jpg"
+    description: "Jian and Hongli attended the 2024 Water Sustainability Summit, hosted by UCalgary (Lake Louise, Oct 30 - Nov 1, 2024)."
+  - image: "2024_10_31water_sustainability_summit_group.jpg"
+    description: "Field excursions in the Bow Valley, 2024 Water Sustainability Summit."
+  - image: "2024_07_18_alberta_water_summit.jpg"
+    description: "Hongli attended the 2024 Alberta Water Summit in Banff, hosted by UCalgary (July 18-19, 2024)."
+  - image: "2024_06_05_minh_at_bow.jpg"
+    description: "Minh, our computer science student, visited the Bow at Banff river on June 5, 2024."
+  - image: "2024_05_11_marian_certificate.jpg"
+    description: "Marian was awarded the certificate for the Emerging Leaders in the Americas Program (ELAP) on May 11, 2024."  
   - image: "2024_04_18_marian_3MT2.jpg"
     description: "Marian won prizes at the 3MT Research Symposium on April 18, 2024."
   - image: "2024_04_18_marian_3MT1.jpg"
@@ -13,15 +37,15 @@ fun_photos:
   - image: "2024_04_11_quang_dra1.jpg"
     description: "Quang presented at the DRA Poster Presentation and Competition on April 11, 2024."
   - image: "2024_04_11_quang_dra2.jpg"
-    description: "We were at the DRA event."
+    description: "Winter 2024 DRA event."
   - image: "2024_02_21_marian_ISTF.jpg"
     description: "Marian represented Peru at the International Swiss Talent Forum in February 2024."
   - image: "2023-12-22_first_group_meeting.png"
-    description: "Our first group meeting on December 22, 2023."
+    description: "Our first group meeting on Dec 22, 2023."
   - image: "2023_12_11_hannah_dra.jpg"
-    description: "Hannah presented at the DRA Poster Presentation and Competition on December 11, 2023."
+    description: "Hannah presented at the DRA Poster Presentation and Competition on Dec 11, 2023."
   - image: "2023_12_11_umalsha_dra.jpg"
-    description: "Umalsha presented at the DRA Poster Presentation and Competition on December 11, 2023."
+    description: "Umalsha presented at the DRA Poster Presentation and Competition on Dec 11, 2023."
   - image: "2023_04_10_hongli_reddeer.jpg"
     description: "Hongli measured water levels in Red Deer on April 10, 2023."
   - image: "2023_04_02_hongli_reddeer.jpg"
@@ -51,7 +75,7 @@ document.addEventListener('DOMContentLoaded', function () {
     {% endfor %}
   ];
   let currentIndex = 0;
-  const autoSwitchInterval = 5000; // Auto switch interval in milliseconds
+  const autoSwitchInterval = 10000; // Auto switch interval in milliseconds
   let autoSwitchTimer; // Timer for auto switching
 
   function updateGalleryItem(index) {
