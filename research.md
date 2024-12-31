@@ -33,7 +33,7 @@ main_nav: true
 
 
 <p>
-Our research advances hydrologic modeling and its applications in extreme hydrologic predictions (e.g., floods and droughts) and climate change impact assessments. See below for details.
+Our research advances hydrologic modeling and its applications in extreme event predictions (e.g., floods and droughts) and climate change impact assessments. See below for details.
 
 <hr>
 <div class="flex-container">
@@ -43,7 +43,7 @@ Our research advances hydrologic modeling and its applications in extreme hydrol
     <div class="text-container">
         <h4 id="paragraph2">Understanding Hydrologic Processes</h4>
         <p>
-        Our research addresses two key questions: What are the generation mechanisms of hydrologic extreme events, and what are the dominant hydrologic processes in different landscapes? In detail, we classify and assess the changes of extreme events in occurrence and magnitude under climate change. Also, we identify the dominant hydrologic processes in various landscapes, providing a foundation for developing regionally tailored hydrologic models.
+        Our research addresses two key questions: What are the generation mechanisms of extreme hydrologic events, and what are the dominant hydrologic processes in different landscapes? In detail, we classify and assess the changes of extreme events in occurrence and magnitude under climate change. Also, we identify the dominant hydrologic processes in various landscapes, providing a foundation for developing regionally tailored hydrologic models.
         </p>
     </div>
 </div>
