@@ -33,7 +33,7 @@ main_nav: true
 
 
 <p>
-Our research advances the understanding, modeling, and prediction of extreme hydrologic events (e.g., floods and droughts) under climate change. See below for details.
+Our research advances hydrologic modeling and its applications in extreme hydrologic predictions (e.g., floods and droughts) and climate change impact assessments. See below for details.
 
 <hr>
 <div class="flex-container">
@@ -43,7 +43,7 @@ Our research advances the understanding, modeling, and prediction of extreme hyd
     <div class="text-container">
         <h4 id="paragraph2">Understanding Hydrologic Processes</h4>
         <p>
-        Our research addresses two key questions: What are the generation mechanisms of hydrologic extreme events, and what are the dominant hydrologic processes in different landscapes? We classify and assess the changes of extreme events in occurrence and magnitude under climate change. Also, we identify the dominant hydrologic processes in various landscapes, providing a foundation for developing regionally tailored hydrologic models.
+        Our research addresses two key questions: What are the generation mechanisms of hydrologic extreme events, and what are the dominant hydrologic processes in different landscapes? In detail, we classify and assess the changes of extreme events in occurrence and magnitude under climate change. Also, we identify the dominant hydrologic processes in various landscapes, providing a foundation for developing regionally tailored hydrologic models.
         </p>
     </div>
 </div>
@@ -58,7 +58,7 @@ Our research advances the understanding, modeling, and prediction of extreme hyd
     <div class="text-container">
         <h4 id="paragraph2">Advancing Hydrologic Modeling</h4>
         <p>
-        Our research focuses on two key areas: watershed delineation and parameter estimation. In watershed delineation, we aim to enhance the division of watersheds into grids or hydrologic response units (HRUs) to more effectively capture spatial heterogeneity. For parameter estimation, we work to improve the efficiency of sensitivity analysis and calibration in large-domain and complex models.  
+        Our research focuses on two key areas: watershed delineation and parameter estimation. In watershed delineation, we aim to enhance the division of watersheds into grids or hydrologic response units (HRUs) to more effectively capture spatial heterogeneity. For parameter estimation, we work to improve the efficiency of both sensitivity analysis and model calibration for computationally intensive problems.  
         </p>
     </div>
 </div>
@@ -70,9 +70,9 @@ Our research advances the understanding, modeling, and prediction of extreme hyd
         <img src="{{ site.baseurl }}/assets/img_research/topic3.jpg" alt="Descriptive Alt Text">
     </div>
     <div class="text-container">
-        <h4 id="paragraph1">Enhancing Hydrologic Forecasting and Risk Management</h4>
+        <h4 id="paragraph1">Enhancing Hydrologic Forecasting</h4>
         <p>
-        We develop machine learning models to improve flow forecasting. We integrate hydrologic and hydraulic models to enhance flood mapping. Furthermore, our research places a strong emphasis on uncertainty quantification. We work to quantify the observational uncertainties in flow and meteorological data, and develop methods to incorporate these uncertainties into hydrologic modeling and forecasting. 
+        We develop machine learning models to improve flow forecasting. We integrate hydrologic and hydraulic models to enhance flood mapping. Furthermore, our research places a strong emphasis on uncertainty. We work to quantify the observational uncertainties in flow and meteorological data, and develop methods to incorporate these uncertainties into hydrologic modeling and forecasting. 
         </p>
     </div>
 </div>
