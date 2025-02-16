@@ -23,4 +23,8 @@ positions_held:
 Leveraging supercomputing for efficient parameter estimation in hydrologic modeling
 
 ### Short Bio 
-Sahib is a recipient of the Dean’s Research Award for Fall 2024. His research focuses on improving parameter estimation in hydrologic modeling using supercomputing power. By estimating model parameters for approximately 1,000 catchments across North America, Sahib aims to uncover spatial patterns that provide deeper insights into hydrologic processes. His work involves high performance computing, geospatial analysis, and programming, contributing to more accurate and efficient hydrologic models. In his free time he likes engaging in stargazing, TV shows and travelling.
+Sahib is a recipient of the Dean’s Research Award for Fall 2024 and Winter 2025. In Fall 2024, his research focused on improving parameter estimation in hydrologic modeling by leveraging high-performance computing. By estimating model parameters for approximately 1,000 catchments across North America, Sahib identified spatial patterns that provide deeper insights into hydrologic processes. His work integrates supercomputing, geospatial analysis, and programming.
+
+In Winter 2025, he is developing an interactive data visualization system to interpret hydrologic model results. This system will dynamically display model outputs on a geospatial map, allowing researchers to explore spatial variations in hydrologic properties and conduct comparative analyses across regions. His work bridges advanced modeling with intuitive data exploration, making complex hydrologic models more accessible and actionable.
+
+Beyond research, Sahib enjoys stargazing, watching TV shows, and traveling.
