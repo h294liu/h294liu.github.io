@@ -4,6 +4,10 @@ title: Gallery
 permalink: /gallery/
 main_nav: true
 fun_photos:
+  - image: "2025_04_10_ariana_dra.jpg"
+    description: "Ariana received the Outstanding Research Performance Award again (Winter 2025)!"
+  - image: "2025_04_10_shahib_dra.jpg"
+    description: "Shahib presented at the DRA event (Winter 2025)."
   - image: "2024_12_09_group_dra.jpg"
     description: "DRA Poster Presentation and Competition event (Dec 09, 2024)."
   - image: "2024_12_09_ariana_dra1.jpg"
@@ -11,7 +15,7 @@ fun_photos:
   - image: "2024_12_09_ariana_dra2.jpg"
     description: "Ariana presented at the DRA event (Fall 2024)."
   - image: "2024_12_09_ariana_dra3.jpg"
-    description: "Ariana received the Outstanding Research Performance Award!"
+    description: "Ariana received the Outstanding Research Performance Award (Fall 2024)!"
   - image: "2024_12_09_shahib_dra1.jpg"
     description: "Shahib presented at the DRA event (Fall 2024)."
   - image: "2024_12_09_shahib_dra2.jpg"

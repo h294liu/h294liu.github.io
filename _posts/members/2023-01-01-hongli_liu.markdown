@@ -25,17 +25,21 @@ education:
   degree: BSc
   year: 2011
 positions_held:
+- position: Adjunct Professor
+  employer: Université de Sherbrooke
+  location: Canada
+  period: 2025 - present
 - position: Assistant Professor
   employer: University of Alberta
-  location: Edmonton, Alberta, Canada
+  location: Canada
   period: 2023 - present
 - position: Postdoctoral Fellow
   employer: University of Saskatchewan
-  location: Canmore, Alberta, Canada
+  location: Canada
   period: 2021-2022
 - position: Postdoctoral Fellow
   employer: National Center for Atmospheric Research
-  location: Boulder, Colorado, USA
+  location: USA
   period: 2019-2021
 googlescholar_url: "https://scholar.google.ca/citations?user=im9DUhAAAAAJ&hl=en&authuser=1"
 orcid_url: "https://orcid.org/0000-0002-2756-3247"
