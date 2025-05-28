@@ -5,9 +5,21 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 18 May 2025 18:34:12 -0600</pubDate>
-    <lastBuildDate>Sun, 18 May 2025 18:34:12 -0600</lastBuildDate>
+    <pubDate>Wed, 28 May 2025 15:52:12 -0600</pubDate>
+    <lastBuildDate>Wed, 28 May 2025 15:52:12 -0600</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>Deyu_miao</title>
+        <description>&lt;h3 id=&quot;short-bio&quot;&gt;Short Bio&lt;/h3&gt; &lt;p&gt;Deyu is a Visiting PhD student in Water Resources Engineering at the University of Alberta, co-supervised by Dr. Hongli Liu and Dr. &lt;a href=&quot;https://apps.ualberta.ca/directory/person/yshe&quot;&gt;Yuntong She&lt;/a&gt;. Deyu’s research...</description>
+        <pubDate>Mon, 28 Apr 2025 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/current_member/2025/04/28/deyu_miao.html</link>
+        <guid isPermaLink="true">http://localhost:4000/current_member/2025/04/28/deyu_miao.html</guid>
+        
+        
+        <category>current_member</category>
+        
+      </item>
     
       <item>
         <title>Ariana_smith</title>
@@ -111,18 +123,6 @@
         <pubDate>Fri, 14 Apr 2023 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/former_member_undergrad/2023/04/14/umalsha_colambage.html</link>
         <guid isPermaLink="true">http://localhost:4000/former_member_undergrad/2023/04/14/umalsha_colambage.html</guid>
-        
-        
-        <category>former_member_undergrad</category>
-        
-      </item>
-    
-      <item>
-        <title>Hannah_tripp</title>
-        <description>&lt;h3 id=&quot;project&quot;&gt;Project&lt;/h3&gt; &lt;p&gt;Understanding dominant hydrological processes and model parameters in mountainous regions: A case study of the Bow at Banff&lt;/p&gt; &lt;h3 id=&quot;project-abstract&quot;&gt;Project Abstract&lt;/h3&gt; &lt;p&gt;Hannah is a recipient of the Dean’s...</description>
-        <pubDate>Fri, 14 Apr 2023 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/former_member_undergrad/2023/04/14/hannah_tripp.html</link>
-        <guid isPermaLink="true">http://localhost:4000/former_member_undergrad/2023/04/14/hannah_tripp.html</guid>
         
         
         <category>former_member_undergrad</category>

@@ -12,10 +12,17 @@ layout: default
 </style>
 
 <div class="container custom-container">
-  <div class="image-container">
-      <img src="{{ site.baseurl }}/assets/img/{{ page.img }}" alt="{{ page.name }}" class="img-fluid center-image">
-  </div>
-  
+  <!-- <div class="image-container">
+      <img src="{{ site.baseurl }}/assets/img/{{ page.img_full }}" alt="{{ page.name }}" class="img-fluid center-image">
+  </div> -->
+  <div class="image-container text-center">
+    <img 
+      src="{{ site.baseurl }}/assets/img/{{ page.img_full | default: page.img }}" 
+      alt="{{ page.name }}" 
+      style="max-width: 300px; width: 100%; height: auto;" 
+      class="center-image"
+    >
+  </div>  
   
     <h2 style="display: inline-block; margin-right: 10px;">{{ page.name }}</h2>
 
