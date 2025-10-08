@@ -4,6 +4,10 @@ title: Gallery
 permalink: /gallery/
 main_nav: true
 fun_photos:
+  - image: "2025-06-18_chang_IWP.jpg"
+    description: "Chang presented at the IWA YWP Canada conference (July 18, 2025)."
+  - image: "2025-06-18_jian_IWP.jpg"
+    description: "Jian presented at the IWA YWP Canada conference (July 18, 2025)."
   - image: "2025_04_10_ariana_dra.jpg"
     description: "Ariana received the Outstanding Research Performance Award again (Winter 2025)!"
   - image: "2025_04_10_shahib_dra.jpg"
