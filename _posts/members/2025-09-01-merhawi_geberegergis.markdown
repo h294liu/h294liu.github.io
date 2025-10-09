@@ -1,7 +1,7 @@
 ---
 layout: current_member
 name: Merhawi Berhe Geberegergis
-date: 2025-09-02 # don't change - this is used for sorting only
+date: 2025-09-01 # don't change - this is used for sorting only
 categories: current_member
 img: merhawi_geberegergis.jpg
 img_full: merhawi_geberegergis_full.jpeg
