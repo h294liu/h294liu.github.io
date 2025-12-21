@@ -45,7 +45,7 @@ Open-FRANC (Open-Source Flood Risk Analysis Network for Canada) aims to address 
 - PhD position 1: Hydraulic modeling of open water and ice jam floods.
 - PhD position 2: Integration of hydrological and hydraulic models. 
  
-The MSc position and PhD position 1 will be co-supervised by Dr. Jennifer Nafziger and Dr. Yuntong She, and PhD position 2 will be supervised by Dr. Hongli Liu.
+The MSc position and PhD position 1 will be co-supervised by [Dr. Jennifer Nafziger](https://apps.ualberta.ca/directory/person/jnafzige) and [Dr. Yuntong She](https://apps.ualberta.ca/directory/person/yshe), and PhD position 2 will be supervised by [Dr. Hongli Liu](https://apps.ualberta.ca/directory/person/hongli7).
  
 **Candidate qualifications**: We welcome applications with backgrounds in hydrology, hydraulics, and process-based modeling. We value diversity and encourage applications from all qualified candidates. Please note: 
 - PhD applicants must hold (or be completing) a Master’s degree, and direct applications from Bachelor’s graduates are not eligible.
