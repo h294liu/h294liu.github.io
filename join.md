@@ -30,30 +30,39 @@ main_nav: true
     }
 </style>
 
-Currently, we do not have fully funded positions available for graduate students. 
-<!-- <h3>A PhD Opportunity in Hydrologic Modeling and Prediction</h3> -->
-<!--
-We are seeking a highly motivated PhD student to join our research group  starting in **September 2025**. The successful candidate will have the opportunity to work on research topics focused on hydrologic modeling and prediction. <br> -->
+<hr>
+<!--- Currently, we do not have fully funded positions available for graduate students. --->
+<h3>MSc and PhD Positions in Flood Modeling</h3>
 
-<!--
-**Desired Qualifications:** Students with the following experience and skills are particularly encouraged to apply:
-- Hydrologic modeling/forecasting
-- Floods/droughts analysis
-- Climate studies
-- Advanced skills in mathematics and programming
-- Proficiency in handling large datasets and high-performance computing
-- Experience with data-driven or machine learning techniques for hydrologic applications<br>
-
-**Application Process:** If you are interested, please send the following documents to <a href="mailto:hongli.liu@ualberta.ca">Dr. Liu</a> with "PhD Application - [Your Name]" in the subject line: 
-- One-page cover letter explaining your interests and experience in computational hydrology
-- Curriculum vitae
-- Undergraduate and graduate transcripts 
-
-**Important Notes:**
+We invite applications for three fully funded graduate student positions: one MSc position and two PhD positions.
+ 
+**Project overview**: Floods are the costliest and most widespread natural disaster in Canada, affecting communities and ecosystems from coast to coast to coast. A key challenge is that hydrologic processes in Canada are widely different, leading to an extensive range of flood-generating mechanisms across the country. In addition, current flood hazard mapping efforts are fragmented across jurisdictions and often rely on closed-source models that require substantial manual effort and are not always well suited to Canadian river basins.  
+ 
+Open-FRANC (Open-Source Flood Risk Analysis Network for Canada) aims to address these challenges by developing a Canada-specific, open-source flood modeling ecosystem. The project will unify floodplain modeling capabilities for fluvial, coastal, and compound flooding nationwide. Open-FRANC will also develop predictive tools and scenario-based hazard products to support federal flood policy, enhance resilience to climate-driven floods, and enable evidence-based decision-making at multiple levels. It is a collaborative initiative among six leading Canadian universities.
+ 
+**Available positions**: The successful students will contribute to the following research areas:
+- MSc position: Mapping/modeling of open water floods and ice jam hazards.
+- PhD position 1: Hydraulic modeling of open water and ice jam floods.
+- PhD position 2: Integration of hydrological and hydraulic models. 
+ 
+The MSc position and PhD position 1 will be co-supervised by Dr. Jennifer Nafziger and Dr. Yuntong She, and PhD position 2 will be supervised by Dr. Hongli Liu.
+ 
+**Candidate qualifications**: We welcome applications with backgrounds in hydrology, hydraulics, and process-based modeling. We value diversity and encourage applications from all qualified candidates. Please note: 
+- PhD applicants must hold (or be completing) a Master’s degree, and direct applications from Bachelor’s graduates are not eligible.
 - Please review our graduate program [admission requirements](https://www.ualberta.ca/engineering/civil-environmental-engineering/graduate-programs/how-to-apply/admission-requirements.html) before inquiring. 
 - International applicants should ensure they meet the required [English proficiency standards](https://www.ualberta.ca/en/graduate-studies/admissions-programs/apply/international-academic-requirements/english-language-proficiency/index.html) before applying. 
-- We appreciate all applications; however, only candidates selected for interviews will be contacted.
- -->
+
+**Application instructions**: If you are interested in these positions, please email the following materials to Dr. Jennifer Nafziger (jnafzige@ualberta.ca) for the MSc position and PhD position 1, and to Dr. Hongli Liu (hongli.liu@ualberta.ca) for PhD position 2.
+
+Please use the subject line: “PhD Application – Your Name” (or “MSc Application – Your Name”, as appropriate). Please include:
+1. Curriculum vitae (CV)
+2. Undergraduate and, if applicable, graduate transcripts (unofficial copies are acceptable)
+3. A brief document describing:
+- Your interest in these opportunities, and
+- Your experience with hydraulic modeling, hydrologic modeling, and flood mapping, if any.
+
+Review of applications will begin on January 19, 2025, and will continue on a rolling basis until the positions are filled. We appreciate all applications; however, only shortlisted candidates will be contacted.
+
 
 <hr>
 <h3>Other Funding Opportunities</h3>
