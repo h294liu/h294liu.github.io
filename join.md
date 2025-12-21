@@ -61,7 +61,7 @@ Please use the subject line: “PhD Application – Your Name” (or “MSc Appl
 - Your interest in these opportunities, and
 - Your experience with hydraulic modeling, hydrologic modeling, and flood mapping, if any.
 
-Review of applications will begin on January 19, 2025, and will continue on a rolling basis until the positions are filled. We appreciate all applications; however, only shortlisted candidates will be contacted.
+Review of applications will begin on January 19, 2026, and will continue on a rolling basis until the positions are filled. We appreciate all applications; however, only shortlisted candidates will be contacted.
 
 
 <hr>
