@@ -31,7 +31,10 @@ main_nav: true
 </style>
 
 <hr>
+Currently, we do not have fully funded positions available for graduate students.
 <!--- Currently, we do not have fully funded positions available for graduate students. --->
+
+<!--- 
 <h3>MSc and PhD Positions in Flood Modeling</h3>
 
 We invite applications for three fully funded graduate student positions: one MSc position and two PhD positions.
@@ -62,7 +65,7 @@ Please use the subject line: “PhD Application – Your Name” (or “MSc Appl
 - Your experience with hydraulic modeling, hydrologic modeling, and flood mapping, if any.
 
 Review of applications will begin on January 19, 2026, and will continue on a rolling basis until the positions are filled. We appreciate all applications; however, only shortlisted candidates will be contacted.
-
+ --->
 
 <hr>
 <h3>Other Funding Opportunities</h3>
