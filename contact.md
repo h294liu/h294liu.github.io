@@ -60,19 +60,25 @@ main_nav: true
 <div class="contact-container">
     <div class="contact-address">
         <h3>Address</h3>
-        <p>7-217 Donadeo Innovation Centre for Engineering</p>
-        <p>9211-116 Street NW</p>
-        <p>Edmonton, AB, Canada T6G 1H9</p>
+        <p>Cobleigh Hall 206</p>
+        <p>Bozeman MT 59717</p>
     </div>
     
     <div class="contact-info">
         <h3>Email</h3>
-        <p>Email: <a href="mailto:hongli.liu@ualberta.ca">hongli.liu@ualberta.ca</a></p>
+        <p>Email: <a href="mailto:hongli.liu@montana.edu">hongli.liu@montana.edu</a></p>
     </div>
 </div>
 
 <!-- Add the Google Map -->
 <div class="contact-map">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5808.045134077588!2d-113.53444912046439!3d53.5266863831798!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x53a0218a119b1d79%3A0x99c87bfb9bf82301!2sDonadeo%20Innovation%20Centre%20for%20Engineering!5e0!3m2!1sen!2sca!4v1709589006600!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
+    <iframe 
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2788.2151161547017!2d-111.04853745975106!3d45.66658167119841!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x534545017fe3a799%3A0xd26162acfa5eda83!2sCobleigh%20Hall!5e0!3m2!1sen!2sus!4v1777841693098!5m2!1sen!2sus"
+        width="400"
+        height="300"
+        style="border:0;"
+        allowfullscreen=""
+        loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
 </div>

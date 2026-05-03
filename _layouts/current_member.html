@@ -48,6 +48,29 @@ layout: default
       <a href="{{ page.email }}">{{ page.social[0].url | replace: "mailto:", "" }}</a></p>
     </div>
 
+
+    {% if page.appointments != null and page.appointments.size > 0 %}
+      <h3>Employment</h3>
+      <ul>
+        {% for job in page.appointments %}
+          <li>
+            {{ job.position }}, {{ job.employer }}, {{ job.location }} ({{ job.period }})
+          </li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+
+    {% if page.affiliations != null and page.affiliations.size > 0 %}
+      <h3>Affiliation</h3>
+      <ul>
+        {% for aff in page.affiliations %}
+          <li>
+            {{ aff.position }}, {{ aff.employer }}, {{ aff.location }} ({{ aff.period }})
+          </li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+
     <h3>Education</h3>
     <ul>
       {% for edu in page.education %}
@@ -56,17 +79,6 @@ layout: default
         </li>
       {% endfor %}
     </ul>
-
-    {% if page.positions_held != null and page.positions_held.size > 0 %}
-      <h3>Employment</h3>
-      <ul>
-        {% for position in page.positions_held %}
-          <li>
-            {{ position.position }}, {{ position.employer }}, {{ position.location }} ({{ position.period }})
-          </li>
-        {% endfor %}
-      </ul>
-    {% endif %}
 
     <p>{{ content | markdownify }}</p>
 

@@ -29,4 +29,4 @@ education:
 ---
 
 ### Short Bio
-Zhentao is a PhD student in Water Resources Engineering at the University of Alberta. During his Master’s studies, he focused on predicting compound flooding in coastal cities using machine learning models. Currently, his research focuses on parameter estimation in hydrologic models by leveraging machine learning techniques. In his free time, he enjoys listening to music, going for walks, and cycling.
+Zhentao is a PhD student in Water Resources Engineering at the University of Alberta, co-supervised by Dr. Hongli Liu and Dr. [Amy She](https://apps.ualberta.ca/directory/person/yshe). During his Master’s studies, he focused on predicting compound flooding in coastal cities using machine learning models. Currently, his research focuses on parameter estimation in hydrologic models by leveraging machine learning techniques. In his free time, he enjoys listening to music, going for walks, and cycling.

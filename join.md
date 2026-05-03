@@ -66,7 +66,7 @@ Please use the subject line: “PhD Application – Your Name” (or “MSc Appl
 
 Review of applications will begin on January 19, 2026, and will continue on a rolling basis until the positions are filled. We appreciate all applications; however, only shortlisted candidates will be contacted.
  --->
-
+<!-- 
 <hr>
 <h3>Other Funding Opportunities</h3>
 <h4>Graduate students</h4>
@@ -89,5 +89,5 @@ We welcome undergraduates to explore research opportunities and contribute to ou
 
 International undergraduate students can consider:
 - <a href="https://www.ualberta.ca/admissions-programs/visiting-student-and-internship-programs/research-internships/goc-scholarships/index.html">Government of Canada International Scholarships (ELAP, SEED, Study in Canada Scholarships )</a>
-- <a href="https://www.ualberta.ca/admissions-programs/visiting-student-and-internship-programs/research-internships/csc-funded-placements/index.html">CSC Funded Internships</a>
+- <a href="https://www.ualberta.ca/admissions-programs/visiting-student-and-internship-programs/research-internships/csc-funded-placements/index.html">CSC Funded Internships</a> -->
 

@@ -34,4 +34,4 @@ education:
 ---
 
 ### Short Bio
-Deyu is a Visiting PhD student in Water Resources Engineering at the University of Alberta, co-supervised by Dr. Hongli Liu and Dr. [Yuntong She](https://apps.ualberta.ca/directory/person/yshe). Deyu's research focuses on improving the predictive accuracy of hydrodynamic models through data assimilation techniques. In spare time, he enjoys playing badminton and esports.
+Deyu is a Visiting PhD student in Water Resources Engineering at the University of Alberta, co-supervised by Dr. Hongli Liu and Dr. [Amy She](https://apps.ualberta.ca/directory/person/yshe). Deyu's research focuses on improving the predictive accuracy of hydrodynamic models through data assimilation techniques. In spare time, he enjoys playing badminton and esports.

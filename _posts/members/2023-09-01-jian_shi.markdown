@@ -29,4 +29,4 @@ positions_held:
 
 ### Short Bio
 
-Jian is a PhD student in Water Resources Engineering at the University of Alberta. During her master’s studies, she focused on the migration and transformation mechanisms of groundwater pollutants and the treatment of contaminants. Her current research focuses on improving hydrologic processes understanding and parameter estimation for large-domain hydrologic modeling. In her spare time, she likes watching movies and cooking.
+Jian is a PhD student in Water Resources Engineering at the University of Alberta, co-supervised by Dr. Hongli Liu and Dr. [Amy She](https://apps.ualberta.ca/directory/person/yshe). During her master’s studies, she focused on the migration and transformation mechanisms of groundwater pollutants and the treatment of contaminants. Her current research focuses on improving hydrologic processes understanding and parameter estimation for large-domain hydrologic modeling. In her spare time, she likes watching movies and cooking.
