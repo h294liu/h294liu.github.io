@@ -55,13 +55,6 @@ postdoc:
 googlescholar_url: "https://scholar.google.ca/citations?user=im9DUhAAAAAJ&hl=en&authuser=1"
 orcid_url: "https://orcid.org/0000-0002-2756-3247"
 ---
-<!-- <h3>Employment</h3>
-- Assistant Professor, Montana State University (2026– )
-- Assistant Professor, University of Alberta (2023–2026)
-
-<h3>Affiliations</h3>
-- Adjunct Professor, University of Alberta (2026– )
-- Adjunct Professor, Université de Sherbrooke (2025– ) -->
 
 ### Short Bio
-I am an Assistant Professor at Montana State University. Prior to this, I was an Assistant Professor at the University of Alberta and held postdoctoral positions at the National Center for Atmospheric Research and the University of Saskatchewan. My research focuses on advancing hydrologic modeling and its applications in extreme hydrologic predictions (e.g., floods and droughts) and climate change impact assessments across multiple scales.  
+I am an Assistant Professor at Montana State University. Prior to this, I was an Assistant Professor at the University of Alberta and held postdoctoral positions at the National Center for Atmospheric Research and the University of Saskatchewan. My research focuses on advancing hydrologic modeling and its applications in extreme hydrologic predictions (e.g., floods and droughts).  
