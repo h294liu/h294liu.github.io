@@ -48,8 +48,6 @@ fun_photos:
     description: "Field excursion in the Bow Valley during the 2024 Water Sustainability Summit"
   - image: "2024_07_18_alberta_water_summit.jpg"
     description: "Hongli attended the 2024 Alberta Water Summit hosted by the University of Calgary (Banff, Jul 18–19, 2024)"
-  - image: "2024_06_05_minh_at_bow.jpg"
-    description: "Minh, our computer science student, visited the Bow River at Banff (Jun 5, 2024)"
   - image: "2024_05_11_marian_certificate.jpg"
     description: "Marian received the certificate for the Emerging Leaders in the Americas Program (ELAP) (May 11, 2024)"  
   - image: "2024_04_18_marian_3MT2.jpg"

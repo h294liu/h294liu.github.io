@@ -4,7 +4,7 @@ name: Ariana Smith
 date: 2024-10-03
 categories: former_member_undergrad
 img: ariana_smith.jpg
-position: UG student
+position: Undergraduate student
 term: Fall 2024, Winter 2025
 linkedin_url: "https://www.linkedin.com/in/ariana-smith-67968a324/"
 social:
@@ -17,6 +17,7 @@ education:
   degree: Undergraduate student
   year: 2020 - present
 positions_held:
+project: Evaluating a novel rainfall-runoff event identification method
 ---
 
 ### Project

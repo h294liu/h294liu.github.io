@@ -1,37 +1,38 @@
 ---
-layout: current_member
+layout: former_member_grad
 name: Deyu Miao
 date: 2025-04-28 # don't change - this is used for sorting only
-categories: current_member
+categories: former_member_grad
 img: deyu_miao.jpg
 img_full: deyu_miao_full.jpg
 position: Visiting PhD student
-social:
-- title: envelope #use for email address
-  url: "mailto:deyu1@ualberta.ca"
+# social:
+# - title: envelope #use for email address
+#   url: "mailto:deyu1@ualberta.ca"
 education:
 - school: University of Alberta
   location: Canada
   program: Water Resources Engineering
   degree: Visiting PhD student
-  year: April 2025 - present
+  year: April 2025 - April 2026
 - school: Nanjing Hydraulic Research Institute
   location: China
   program: Civil and Hydraulic Engineering
   degree: PhD student
-  year: 2022 - present
+  year: 2026
 - school: Hohai University
   location: China
   program: Urban Water Affairs
   degree: MSc
-  year: 2019
+  year: 2022
 - school: Hohai University
   location: China
   program: Water Engineering
   degree: BSc
-  year: 2014
-
+  year: 2018
+project: Improving the predictive accuracy of hydrodynamic models through data assimilation techniques
+term: 2025 - 2026
 ---
 
 ### Short Bio
-Deyu is a Visiting PhD student in Water Resources Engineering at the University of Alberta, co-supervised by Dr. Hongli Liu and Dr. [Amy She](https://apps.ualberta.ca/directory/person/yshe). Deyu's research focuses on improving the predictive accuracy of hydrodynamic models through data assimilation techniques. In spare time, he enjoys playing badminton and esports.
+Deyu was a Visiting PhD student in Water Resources Engineering at the University of Alberta. Deyu's research focused on improving the predictive accuracy of hydrodynamic models through data assimilation techniques. 

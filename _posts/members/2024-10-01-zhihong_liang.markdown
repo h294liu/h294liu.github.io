@@ -4,7 +4,7 @@ name: Zhihong Liang
 date: 2024-10-02
 categories: former_member_undergrad
 img: zhihong_liang.jpg
-position: UG student
+position: Undergraduate student
 term: Fall 2024
 social:
 - title: envelope #use for email address
@@ -16,6 +16,7 @@ education:
   degree: Undergraduate student
   year: 2020 - present
 positions_held:
+project: Evaluating machine learning and process-based hydrologic models
 ---
 
 ### Project

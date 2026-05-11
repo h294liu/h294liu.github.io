@@ -6,7 +6,7 @@ main_nav: true
 ---
 
 ---
-
+<h4>Members</h4>
 <div class="row">
   {% for member in site.categories['current_member'] reversed %}
     <div class="col-lg-4 col-md-4 col-sm-4">
@@ -25,14 +25,27 @@ main_nav: true
 
 <hr>
 
+<!-- <h4>Former graduate students</h4>
+<div class="row">
+    {% for member in site.categories['former_member_grad'] reversed %}
+    <div class="col-lg-4 col-md-4 col-sm-4">
+      <div class="member-info">
+        <div class="square-image">
+          <img src="{{ site.baseurl }}/assets/img/{{ member.img }}" alt="{{ member.name }}">
+        </div>
+        <div class="text-container">
+          <h4><a href="{{ member.url | prepend: site.baseurl }}">{{ member.name }}</a></h4>
+          <p>{{ member.position }}</p>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+</div>   
+
+<hr>
+
 <h4>Former undergraduate students</h4>
 <div class="row">
-<!--     {% for member in site.categories['former_member_grad'] reversed %}
-      <li>
-        <a href="{{ member.url | prepend: site.baseurl }}">{{ member.name }}</a>. {{ member.program }}, {{ member.endmonth }} {{ member.endyear }}. {{ member.thesisTitle }}
-      </li>
-    {% endfor %} -->
-    
     {% for member in site.categories['former_member_undergrad'] %}
     <div class="col-lg-4 col-md-4 col-sm-4">
       <div class="member-info">
@@ -46,4 +59,17 @@ main_nav: true
       </div>
     </div>
   {% endfor %}
-</div>
+</div> -->
+
+<h4>Group Alumni</h4>
+
+{% assign former_students = site.categories['former_member_grad']
+  | concat: site.categories['former_member_undergrad']
+  | sort: 'date' %}
+
+{% for member in former_students reversed %}
+
+- **[{{ member.name }}]({{ member.url | prepend: site.baseurl }})** — {{ member.position }}  
+  {{ member.project }} ({{ member.term }})
+
+{% endfor %}

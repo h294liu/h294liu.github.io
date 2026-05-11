@@ -4,10 +4,11 @@ name: Hannah Tripp
 date: 2023-04-14 # date that you started working with the group
 categories: former_member_undergrad
 img: profile-placeholder.gif
+position: Undergraduate student
 program: Dean's Research Awards 
 term: Fall 2023
 year:
-
+project: Understanding dominant hydrological processes and model parameters in mountainous regions
 ---
 ### Project
 Understanding dominant hydrological processes and model parameters in mountainous regions: A case study of the Bow at Banff

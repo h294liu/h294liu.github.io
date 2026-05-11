@@ -3,64 +3,84 @@ layout: default
 ---
 <style>
   /* Add your custom styles here */
-
-  body {
-    margin: 0;
-    padding: 0;
-  }
-
-  .container {
-    margin-top: 20px; /* Adjust top margin as needed */
-    margin-bottom: 20px; /* Adjust bottom margin as needed */
-    padding: 20px; /* Adjust padding as needed */
-  }
-
-  .row {
-    margin: 0 -10px; /* Adjust horizontal margin as needed */
-  }
-
-  .col-md-4,
-  .col-md-8 {
-    padding: 0 10px; /* Adjust horizontal padding as needed */
-  }
-
-  .contact-info {
-    margin-top: 10px; /* Adjust top margin as needed */
-    margin-bottom: 10px; /* Adjust bottom margin as needed */
-  }
-
   h3 {
-    margin-top: 0px; /* Adjust top margin for headers and paragraphs */
-    margin-bottom: -5px; /* Adjust bottom margin for headers and paragraphs */
-  }
+  margin-top: 5px;
+  margin-bottom: 5px;
+  line-height: 1.0; /* Adjust line height for tighter text spacing */
+}
 
-  ul {
-    margin-top: 0px; /* Adjust top margin for unordered lists as needed */
-    margin-bottom: 0px; /* Adjust bottom margin for unordered lists as needed */
-  }
-
-  li {
-    margin-top: 2.5px; /* Adjust top margin for unordered lists as needed */
-    margin-bottom: 2.5px; /* Adjust bottom margin for list items as needed */
-  }
-
-  /* Add more styles as needed */
 </style>
 
-<div class="container">
-  <div class="row">
-    <div class="col-md-4">
-      <img src="{{ site.baseurl }}/assets/img/{{ page.img }}" alt="{{ page.name }}" class="img-fluid">
-    </div>
-    <div class="col-md-8">
-      <h3>{{ page.name }}</h3>
-      <p>{{ page.program }}, {{ page.endmonth }} {{ page.endyear }}</p>
-      
-      <h3>Thesis Title</h3>
-      <p>{{ page.thesisTitle }}</p>
+<div class="container custom-container">
+  <!-- <div class="image-container">
+      <img src="{{ site.baseurl }}/assets/img/{{ page.img_full }}" alt="{{ page.name }}" class="img-fluid center-image">
+  </div> -->
+  <div class="image-container text-center">
+    <img 
+      src="{{ site.baseurl }}/assets/img/{{ page.img_full | default: page.img }}" 
+      alt="{{ page.name }}" 
+      style="max-width: 300px; width: 100%; height: auto;" 
+      class="center-image"
+    >
+  </div>  
+  
+    <h2 style="display: inline-block; margin-right: 10px;">{{ page.name }}</h2>
 
-      <p>{{ content | markdownify }}</p>
+    {% if page.linkedin_url %}
+      <a href="{{ page.linkedin_url }}" target="_blank" title="LinkedIn" style="display: inline-block;">
+        <img src="{{ site.baseurl }}/assets/icons/linkedin.svg" alt="LinkedIn" style="width: 30px; height: auto; vertical-align: bottom; margin-left: 5px;">
+      </a>
+    {% endif %}
 
+    {% if page.googlescholar_url %}
+    <a href="{{ page.googlescholar_url }}" target="_blank" title="Google Scholar" style="display: inline-block;">
+      <img src="{{ site.baseurl }}/assets/icons/GoogleScholar.png" alt="GoogleScholar" style="width: 30px; height: auto; vertical-align: bottom; margin-left: 5px;">
+    </a>
+    {% endif %} 
+
+    {% if page.orcid_url %}
+    <a href="{{ page.orcid_url }}" target="_blank" title="ORCID" style="display: inline-block;">
+      <img src="{{ site.baseurl }}/assets/icons/ORCID.png" alt="ORCID" style="width: 30px; height: auto; vertical-align: bottom; margin-left: 5px;">
+    </a>
+    {% endif %}  
+
+    <div class="contact-info">
+      <a href="{{ page.email }}">{{ page.social[0].url | replace: "mailto:", "" }}</a></p>
     </div>
-  </div>
+
+
+    {% if page.appointments != null and page.appointments.size > 0 %}
+      <h3>Employment</h3>
+      <ul>
+        {% for job in page.appointments %}
+          <li>
+            {{ job.position }}, {{ job.employer }}, {{ job.location }} ({{ job.period }})
+          </li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+
+    {% if page.affiliations != null and page.affiliations.size > 0 %}
+      <h3>Affiliation</h3>
+      <ul>
+        {% for aff in page.affiliations %}
+          <li>
+            {{ aff.position }}, {{ aff.employer }}, {{ aff.location }} ({{ aff.period }})
+          </li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+
+    <h3>Education</h3>
+    <ul>
+      {% for edu in page.education %}
+        <li>
+          {{ edu.degree }}, {{ edu.program }}, {{ edu.school }}, {{ edu.location }} ({{ edu.year }})
+        </li>
+      {% endfor %}
+    </ul>
+
+    <p>{{ content | markdownify }}</p>
+
+    
 </div>

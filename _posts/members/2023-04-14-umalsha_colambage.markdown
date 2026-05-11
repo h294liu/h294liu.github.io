@@ -4,10 +4,12 @@ name: Umalsha Colambage
 date: 2023-04-14
 categories: former_member_undergrad
 img: umalsha_colambage.jpg
+position: Undergraduate student
 program: Dean's Research Awards 
 term: Fall 2023
 year:
 linkedin_url: "https://www.linkedin.com/in/umalsha-colambage-723a75226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+project: Assessing climate change impacts on snowmelt patterns in Canadian mountain regions
 ---
 
 ### Project

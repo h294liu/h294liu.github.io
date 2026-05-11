@@ -4,6 +4,7 @@ name: Marian A. Montalvo Poblete
 date: 2024-01-04           # don't change, used for laying out members. 
 categories: former_member_undergrad # don't change
 img: marian_poblete.jpg
+position: Undergraduate student
 program: Emerging Leaders in the Americas Program 
 term: Winter 2024
 year: 
@@ -17,6 +18,7 @@ education:
   degree: Undergraduate student
   year: 2019 - present
 positions_held:
+project: Assessing the influence of hydrologic model complexity on snowmelt and streamflow simulation
 ---
 
 ### Project

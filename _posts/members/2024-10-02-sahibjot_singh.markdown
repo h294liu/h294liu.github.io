@@ -4,7 +4,7 @@ name: Sahibjot Singh
 date: 2024-10-02
 categories: former_member_undergrad
 img: sahibjot_singh.jpg
-position: UG student
+position: Undergraduate student
 term: Fall 2024, Winter 2025
 linkedin_url: "https://www.linkedin.com/in/sahibjot-singh-617a23212/"
 social:
@@ -17,6 +17,7 @@ education:
   degree: Undergraduate student
   year: 2023 - present
 positions_held:
+project: Leveraging supercomputing for efficient parameter estimation in hydrologic modeling
 ---
 
 ### Project
