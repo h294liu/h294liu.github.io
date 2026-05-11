@@ -141,6 +141,10 @@ img { max-width: 200px; margin: auto; padding-bottom: 0.5em; }
 
 .education-background li { margin-bottom: 5px; /* Adjust the spacing between education background items */ }
 
+.former-students-list li { margin-bottom: 10px; /* adjust: 4–10px usually feels good */ line-height: 1.4; }
+
+.former-students-list li p { margin: 0; }
+
 /*
 *	Header
 */
