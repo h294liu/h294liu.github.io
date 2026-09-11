@@ -4,7 +4,7 @@ title: Gallery
 permalink: /gallery/
 main_nav: true
 fun_photos:
-  - image: "IMG_2843.jpg"
+  - image: "2026-08-27_group.jpg"
     description: "Our team in Fall 2026"
   - image: "2025-12-15_chang_AGU.jpg"
     description: "Chang presented her research at AGU 2025 (Dec 15)"
